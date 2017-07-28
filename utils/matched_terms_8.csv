@@ -1,0 +1,4033 @@
+count;token;matched
+8;2000;1000 20000
+8;alcolique;alcoolique
+8;alcoolo;alcool
+8;artheriopathie;arteriopathie
+8;auriculo;auricule
+8;choque;chique
+8;colo;coco col coli colon cols coro
+8;demnce;demence
+8;epenchement;epanchement
+8;hypertention;hypertension
+8;inssuffisance;insuffisance
+8;lepaule;epaule
+8;lethmoide;ethmoide
+8;lhypopharynx;hypopharynx
+8;loeil;oeil
+8;meti;meta muti
+8;mitro;metro vitro
+8;multiorgane;multi-organe multiorganes
+8;mutiviscerale;multiviscerale
+8;oxygeno;oxygene
+8;respiratoir;respiratoire
+8;rspiratoire;respiratoire
+8;tamponade;tamponnade
+7;cance;cancer canne canoe
+7;cardiaq;cardia cardial
+7;cardiopatie;cardiopathie
+7;cerbral;cerebral
+7;comorbidites;comorbidite
+7;defaiilance;defaillance
+7;denutition;denutrition
+7;dun;din don du due dur gun
+7;dune;due une
+7;encephalopatie;encephalopathie
+7;hepathique;hepatique
+7;ischiemie;ischemie
+7;lepiglotte;epiglotte
+7;liberkuhnien;lieberkuhnien
+7;lnh;ldh lmnh lnmh nh
+7;luretere;uretere
+7;mett;meat meta rett
+7;mie;amie lie mce mi mid miel mig mine mise miu mte vie
+7;moderes;modere moderee
+7;parkinsonnien;parkinsonien
+7;peri;per pere
+7;respiatoire;respiratoire
+7;respiraoire;respiratoire
+7;sever;lever severe
+7;spino;spina
+7;tous;mous sous tonus tour toux
+7;ttt;ptt stt tnt tvt vtt
+6;2eme;3eme 5eme 6eme 8eme veme
+6;acido;acide
+6;aique;aigue tique
+6;alcoolotabagique;alcoolo-tabagique
+6;aortobifemoral;aorto-bifemoral
+6;aortocoronarien;aorto-coronarien
+6;arrret;arret
+6;arrte;aorte arete arrete
+6;ave;ace age ane av avc avec avh avi avk avp axe cave dve gave
+6;bav3;bav bavc
+6;bilat;bilan
+6;cardioembolique;cardio-embolique
+6;dehydratation;deshydratation rehydratation
+6;demance;demande demence
+6;detress;detresse
+6;dibete;diabete
+6;echapement;echappement
+6;ete;et mte pte rete tete
+6;frontotemporale;fronto-temporale
+6;iinsuffisance;insuffisance
+6;insuffsance;insuffisance
+6;insuffusance;insuffisance
+6;lheroine;heroine
+6;loreille;oreille
+6;majeures;majeure majeurs
+6;muliviscerale;multiviscerale
+6;multimetastatiques;multimetastatique
+6;paliatifs;palliatifs
+6;pancres;pancreas
+6;pneumopatie;pneumopathie
+6;pneumopthie;pneumopathie
+6;preuve;epreuve
+6;resuscitation;ressuscitation
+6;semaine;semaines
+6;sousdural;sous-dural
+6;staphyloccoque;staphylococoque staphylocoque
+6;suspiscion;suspicion
+6;toleree;tolere
+6;toubles;troubles
+6;tri;cri sri ti tr vri
+6;vers;vars vems vera vrs
+5;alccolique;alcoolique
+5;alccolisme;alcoolisme
+5;associees;associee
+5;ballistique;balistique
+5;brochique;bronchique
+5;brochopulmonaire;bronchopulmonaire
+5;budd;rudd
+5;cahexie;cachexie
+5;capsulo;capsule
+5;cardirespiratoire;cardiorespiratoire
+5;cardopathie;cardiopathie
+5;chimiotherapies;chimiotherapie
+5;cirhhose;cirrhose
+5;corticodependante;cortico-dependante corticodependance corticodependant
+5;craniocerebral;cranio-cerebral
+5;decalage;decapage
+5;decede ;decede decedee
+5;decopensation;decompensation
+5;defaiillance;defaillance
+5;defaillence;defaillance
+5;dela;delta dmla
+5;devenu;detenu revenu
+5;diabet;diabete
+5;diarhee;diarrhee
+5;doute;doite douce douve route toute voute
+5;dt2;d12 d2 dt dts t2
+5;etre;atre entre
+5;facon;macon
+5;focal;focale local vocal
+5;hemoptisie;hemoptysie
+5;hepathopathie;hepatopathie
+5;importantes;importante
+5;inattendu;inattendue
+5;insufficance;insuffisance
+5;insuffisanc;insuffisance insuffisant
+5;intersticielle;interstitielle
+5;intraalveolaire;intra-alveolaire
+5;jour;cour four joue jours pour tour
+5;lantre;antre
+5;levolution;evolution
+5;lhospitalisation;hospitalisation
+5;lintestin;intestin
+5;listhme;isthme
+5;lorigine;origine
+5;maldie;maladie
+5;memebres;membres
+5;metastastes;metastases
+5;metatstase;metastase
+5;minime;minima minimes
+5;mitroaortique;mitro-aortique
+5;nov;nav non novo
+5;operes;opere operee
+5;oxygenodependance;oxygeno-dependance
+5;possibilite;possibilites
+5;posttabagique;post-tabagique
+5;pris;bris gris iris plis pres prise
+5;radiotherape;radiotherapie
+5;respiratoie;respiratoire
+5;rytmique;rythmique
+5;schyzophrenie;schizophrenie
+5;spetique;spatique
+5;survenu;survenue
+5;temporoparietal;temporo-parietal
+5;tenu;genu
+5;type2;type type1
+5;ulcero;ulcer ulcere
+5;vasc;vac
+4;4eme;3eme 5eme 6eme 8eme veme
+4;acec;acc ace avec cec
+4;acident;accident
+4;acv;ac aca acc ace acm acp acr act av ccv
+4;adnocarcinome;adenocarcinome
+4;aggressif;agressif
+4;aleration;aeration alteration
+4;angiocolite;angiocholite
+4;antecedant;antecedent
+4;arithmie;arythmie
+4;art;act adt ait ant ara arc arx at atrt hrt rt
+4;astme;asthme
+4;auricullaire;auriculaire
+4;bipulmonaire;bi-pulmonaire
+4;cadiaque;cardiaque
+4;cardiorenal;cardio-renal
+4;cardiorespiratoir;cardiorespiratoire
+4;cerabrale;cerebrale
+4;cerebale;cerebrale
+4;chimioembolisation;chimio-embolisation
+4;chirugie;chirurgie
+4;chos;choc chocs clos
+4;cirrose;cirrhose
+4;coc;cec chc choc co co2 coco col cou cpc loc toc
+4;comme;homme pomme
+4;decompenstion;decompensation
+4;deglutiton;deglutition
+4;denutriton;denutrition
+4;dernier;derniere
+4;desydratation;deshydratation
+4;emcombrement;encombrement
+4;envahissment;envahisement envahissement
+4;epidemoide;epidermoide
+4;epidermide;epidermoide
+4;etait;etat
+4;ethilique;ethylique
+4;ethylotabagique;ethylo-tabagique
+4;fev;fav fer feu fevg fiv fv gev
+4;fischer;fisher
+4;fonctionelle;fonctionnelle
+4;gir1;gir
+4;goujerot;gougerot
+4;grabattaire;grabataire
+4;grapataire;grabataire
+4;hemmorragique;hemorragique
+4;hemodinamique;hemodynamique
+4;hemtome;hematome
+4;hydro;hydroa
+4;hyperamoniemie;hyperammoniemie
+4;icardiaque;acardiaque cardiaque
+4;ichemique;ischemique ishemique
+4;ileo;ile ileon
+4;immuno;immune immuns
+4;immunosupression;immunosuppression
+4;importants;important importante
+4;intracrannienne;intracranienne
+4;lache;gache hache lacher tache vache
+4;lalcool;alcool
+4;lampoule;ampoule
+4;langle;angle lange langue sangle
+4;latat;lata
+4;lequilibre;equilibre
+4;lextremite;extremite
+4;lhote;hote
+4;lhumerus;humerus
+4;linsuffisance;insuffisance
+4;lodontoide;odontoide
+4;lymphone;lymphome lymphose
+4;mamaire;malaire mammaire
+4;maniacodepressive;maniaco-depressive
+4;memebre;membre
+4;merastases;metastases
+4;merckel;meckel merkel
+4;metastasees;metastasee metastases
+4;metastastique;metastasique metastatique
+4;metastatse;metastase metastatase
+4;metstases;metastases
+4;mutiples;multiples
+4;oligoanurique;oligo-anurique
+4;operees;operee
+4;para;ara paa par
+4;paroie;paroi parois parole partie
+4;paroxistique;paroxystique
+4;pathie;apathie
+4;pnemopathie;pneumopathie
+4;pneumopahie;pneumopathie
+4;polyomyelite;poliomyelite
+4;progession;progression
+4;pulmomaire;pulmonaire
+4;que;due tue vue
+4;qui;equi lui qi
+4;rabdomyolyse;rhabdomyolyse
+4;refracataire;refractaire
+4;respiratoite;respiratoire
+4;respitatoire;respiratoire
+4;retrecissemnt;retrecissement
+4;sept;sep
+4;septis;sepsis
+4;spondilodiscite;spondylodiscite
+4;spontanne;spontane spontanee
+4;stade4;stade
+4;std;sad smd st st- st+ sth stt
+4;stop;stope
+4;suspectee;suspecte suspectes
+4;sydrome;hydrome syndrome
+4;synrome;syndome syndrome
+4;tbles;toles
+4;teminale;seminale terminale
+4;terrminale;terminale
+4;traitees;traitee
+4;trb;hrb tr
+4;tumeure;tumeur tumeurs
+4;vaculaire;maculaire vacuolaire vasculaire
+4;veille;vieille ville
+4;vicerale;viscerale
+4;zencker;zenker
+3;170;10 100 17p 17q 70
+3;180;10 100 18 18% 18q 380 80
+3;aciident;accident
+3;actifs;actif
+3;adencarcinome;adenocarcinome
+3;adeno-carcinome;adenocarcinome
+3;adenocarinome;adenocarcinome
+3;adenocrcinome;adenocarcinome
+3;agravation;aggravation
+3;aigie;aigue algie
+3;aiguee;aigue aigues
+3;alcolisme;alcoolisme
+3;ana;aa aaa aca ada afa an anal anca ane ans ant ara asa ata gna pna
+3;annoncee;annonce
+3;antiaggregant;antiagregant
+3;anxiodepression;anxio-depression
+3;aortocoronariens;aorto-coronariens
+3;aortofemoral;aorto-femoral
+3;aotique;aortique
+3;arre;aire arbre arme arret atre barre
+3;aterite;arterite
+3;avait;avant
+3;baumanii;baumanni baumannii
+3;biliare;biliaire biliares
+3;bioprthese;bioprothese
+3;bronchpneumopathie;bronchopneumopathie
+3;cadiogenique;cardiogenique
+3;cancr;cancer
+3;cancre;chancre
+3;cander;cancer
+3;cardiomiopathie;cardiomyopathie
+3;cardiopahie;cardiopathie
+3;cardiorespiratoires;cardio-respiratoires cardiorespiratoire
+3;cataclismique;cataclysmique
+3;cette;dette
+3;cholangicarcinome;cholangiocarcinome
+3;chornique;chonique choreique
+3;ciculatoire;circulatoire
+3;code;cone corde cote coude iode mode sode
+3;comma;coma
+3;compliques;complique compliquee compliquees
+3;compressives;compressive
+3;context;contexte
+3;craniofacial;cranio-facial
+3;crannien;cranien
+3;decomensation;decompensation
+3;decompesation;decompensation
+3;defaillace;defaillance
+3;defailllance;defaillance
+3;definie;defini
+3;demense;defense demence demente
+3;dentrition;denutrition
+3;denurition;denutrition
+3;dependent;dependant
+3;detressse;detresse
+3;detrsse;detresse
+3;deutrition;denutrition
+3;differentie;differencie
+3;digetive;digestive
+3;dinhalation;inhalation
+3;ela;elan ema eoa esa eva fla hla la sla
+3;escares;escarres
+3;est;es esa esat esf esv et mst st test west
+3;eta;ata beta ema eoa esa et etat eva hta kta meta nta ta
+3;etata;etat etats
+3;evidence;evidente
+3;evident;evidente
+3;evolee;evolue evoluee
+3;evoluees;evoluee
+3;evoquant;evoluant
+3;explorations;exploration
+3;favorise;favorisee
+3;fecalis;faecalis fecales foecalis
+3;femoropoplite;femoro-poplite
+3;frature;fracture fracure friture
+3;gangionnaires;ganglionnaires
+3;genral;general
+3;gle;ble cle gale gele gpe ile le
+3;gravitz;grawitz
+3;hapatiques;hepatiques
+3;hemorragqiue;hemorragque
+3;hyperthrophique;hypertrophique
+3;hypotention;hypotension
+3;ilio;ilio- ilion
+3;inhalaton;inhalation
+3;inhlation;inflation inhalation
+3;insffisance;insuffisance
+3;institutionalisation;institutionnalisation
+3;insuffisace;insuffisance
+3;insuffisane;insuffisance insuffisant insuffisante
+3;insuffisanse;insuffisance insuffisante
+3;insulino-requerent;insulino-requerant
+3;insuufisance;insuffisance
+3;intraabdominale;intra-abdominale
+3;inuffisance;insuffisance
+3;invahissement;envahissement
+3;irenale;renale
+3;irespiratoire;respiratoire
+3;iscemique;ischemique ishemique
+3;ischamique;ischemique
+3;ischmique;ischemique isthmique
+3;ishemie;ischemie
+3;ladmission;admission
+3;laile;aile labile laine
+3;lapex;apex latex
+3;larret;arret larrey
+3;leiden;leyden
+3;lentree;entree
+3;lhallux;hallux
+3;lhemisphere;hemisphere
+3;liees;liee
+3;limitations;limitation
+3;maelena;melena
+3;majore;majoree
+3;maladei;malade
+3;massives;massive
+3;matastases;metastases
+3;mbre;mare mere
+3;menbres;membres
+3;menigite;meningite
+3;metasases;metastases metatsases
+3;meti-r;methi-r
+3;meticilline;methicilline
+3;monopulmonaire;mono-pulmonaire
+3;muco;mucor
+3;multi-metastasee;multi-metastase multi-metastases
+3;multi-metatstatique;multi-metastatique
+3;multi-viscerales;multi-viscerale multiviscerales
+3;multimetastasique;multimetastatique
+3;multimetatstatique;multimetastatique
+3;multivscerale;multiviscerale
+3;n35;35 n3
+3;negatives;negative
+3;nosocomiales;nosocomiale
+3;oro;coro iro or orl
+3;paliatif;palliatif
+3;pallitifs;palliatifs
+3;pancratite;pancreatite
+3;path;cath pah panh pash patch pate patho pth
+3;peritonale;peritoneale
+3;perotoneale;peritoneale
+3;peumopathie;pneumopathie
+3;pleuropericardique;pleuro-pericardique pleuropericardiques
+3;pneumapathie;pneumopathie
+3;pneumoathie;pneumopathie
+3;poly-arteriopathie;polyarteriopathie
+3;polyvicerale;polyviscerale
+3;proth7se;prothese
+3;pulmonnaire;pulmonaire
+3;pulomonaire;pulmonaire
+3;pyocianique;pyocyanique
+3;ras;as bas bras cas fas gras nas pas ra raa rac racs rao rash rat rau sras
+3;rendant;pendant
+3;repetitions;repetition
+3;resiratoire;respiratoire
+3;respiratroire;respiratoire
+3;respirtoire;respiratoire
+3;ryhme;rythme
+3;rytheme;erytheme rythme
+3;rytme;rythme
+3;sct;act ct hct oct sc sca sch scm scn st stt
+3;sdraa;sdra
+3;sdta;sdra
+3;sepique;septique serique
+3;sepis;sepsis
+3;ses;des ees es se sec sees sel sels sep sesa ss sss sus
+3;sespsis;sepsis
+3;suinfection;surinfection
+3;syndrom;syndrome
+3;takayasu;takayashu
+3;taloniere;talonniere
+3;tracheo;trachee
+3;tracheostomise;tracheostomie tracheotomise
+3;tranformation;transformation
+3;trombose;thombose thrombose
+3;tropo;trop
+3;trt;atrt hrt rt tnt tr tvt
+3;tte;mte pte tce tete tne tue tye
+3;ulceronecrosante;ulcero-necrosante
+3;uro;iro upo
+3;vertebro;vertebre
+3;vertebrobasilaire;vertebro-basilaire
+3;vessicale;vesicale
+3;vit;ait it lit pit vi via vie vih vii vin vis vtt
+3;waldenstroem;waldenstrom
+2;101;10 10% 100 10p 10q 11 131
+2;10h;10 10% 100 10p 10q
+2;15j;15 15%
+2;24h;24 24%
+2;2cardiopathie;cardiopathie
+2;abdominoperineale;abdomino-perineale
+2;acccident;accident
+2;accdent;accident
+2;accidente;accident accidentel accidents
+2;acido-cetose;acidocetose
+2;acta;aca acfa act actal acte acth ata
+2;adenocacinome;adenocarcinome
+2;adenopahies;adenopathies
+2;aeruginosas;aeruginosa
+2;agiue;agite
+2;ainsi;ains
+2;alb;ab al alba ald ali alk alr
+2;alccoolique;alcoolique
+2;allitement;alitement allaitement
+2;alzhemer;alzheimer
+2;amenorrhees;amenorrhee
+2;amputaion;amputation
+2;amytrophique;amyotrophique
+2;and;ad ald an ane ans ant apd
+2;anevrrysme;anevrysme
+2;angicholite;angiocholite
+2;angidysplasie;angiodysplasie
+2;angio;angiox
+2;angiocholyte;angiocholite
+2;annee;annexe apnee innee
+2;antcd;atcd
+2;anteriur;anterieur
+2;appendicetomie;appendicectomie
+2;appreillee;appareillee
+2;ardiaque;cardiaque
+2;ardio-respiratoire;cardio-respiratoire
+2;areb1;areb
+2;areet;arret
+2;arreet;arret
+2;arrert;arret
+2;arretee;arrete
+2;arrythmie;arythmie
+2;arteriopathe;arteriopathie
+2;artrite;antrite arterite arthrite
+2;assiste;assistee
+2;associes;associee
+2;ateinte;atteinte teinte
+2;augue;aigue fugue
+2;auricaulaire;auriculaire
+2;auriiculaire;auriculaire
+2;aval;anal oval
+2;avancees;avancee
+2;avoir;lavoir voir
+2;baltazar;balthazar
+2;bassan;bassin
+2;bi-polaires;bipolaires
+2;bilaires;bilaire biliaires hilaires
+2;bilateralle;bilaterale
+2;bilaterals;bilateral bilaterale bilaterales
+2;bili;bile
+2;bonne;benne bonnet borne donne tonne
+2;bout;boit bot boue gout
+2;brochopneumopathie;bronchopneumopathie
+2;bronchiqe;bronchique bronchite
+2;bronchiqu;bronchique
+2;bronchoaspiration;broncho-aspiration
+2;bronchopeumopathie;bronchopneumopathie
+2;broncopneumopathie;bronchopneumopathie
+2;broncopulmonaire;bronchopulmonaire
+2;c1c2;c1-c2 c12
+2;cabcer;cancer
+2;cacer;cancer
+2;cadio;radio
+2;capsulolenticulaire;capsulo-lenticulaire
+2;carbapenemase;carbapenemases
+2;carcinom;carcinome
+2;carcinoses;calcinoses carcinomes carcinose
+2;carconome;carcinome
+2;card;car
+2;cardiapathie;cardiopathie
+2;cardiaqe;cardiale cardiaque
+2;cardiaqu;cardiaque
+2;cardiasue;cardiaque
+2;cardio-genique;cardiogenique
+2;cardio-respratoire;cardio-respiratoire
+2;cardio6respiratoire;cardio-respiratoire cardiorespiratoire
+2;cardiociculatoire;cardiocirculatoire
+2;cardioparhie;cardiopathie
+2;cardioparthie;cardiopathie
+2;cardiopathi;cardiopathie
+2;cardiorespiratopire;cardiorespiratoire
+2;cardippathie;cardiopathie
+2;caricome;carinome
+2;catarracte;cataracte
+2;celleules;celllules cellules
+2;celllaire;cellulaire
+2;celllule;celllules cellule
+2;cencer;cancer
+2;centro;centre
+2;cerabral;cerebral
+2;chimiotherape;chimiotherapie
+2;chimiothrapie;chimiotherapie
+2;chrionique;chronique
+2;chronque;chronique
+2;chue;chute crue
+2;chutte;chute hutte
+2;cigarettesj;cigarettes
+2;ciirrhose;cirrhose
+2;cmp;camp cbp cm cmd cmh cmi cmj cmo cmv cp crp csp mp
+2;cncer;cancer
+2;cognitfs;cognitifs
+2;comfort;confort
+2;consecutives;consecutive
+2;constate;constante constat
+2;coranarien;coronarien
+2;cordiopathie;cardiopathie
+2;corticoinduit;cortico-induit
+2;coryne;corne
+2;cranioencephalique;cranio-encephalique
+2;crdiogenique;cardiogenique
+2;creat;crest
+2;crebral;cerebral
+2;croissante;croissance
+2;cup;acup cbp coup cp crp csp iup sup up
+2;cut;ct fut
+2;cutannee;cutanee
+2;cyclosporine;ciclosporine
+2;cypho-scoliose;cyphoscoliose
+2;cyrrhose;cirrhose
+2;d2faillance;defaillance
+2;d2tresse;detresse
+2;dafaillance;defaillance
+2;dardiaque;cardiaque
+2;dde;ddb de dhe dpe due dve pde
+2;debute;debut
+2;decellement;decollement descellement
+2;decompansation;decompensation
+2;decompeansation;decompensation
+2;decompenasation;decompensation
+2;def;de dem des
+2;defaillanc;defaillance defaillant
+2;degenrative;degenerative
+2;demensiel;dementiel
+2;denitrition;denutrition
+2;denutriotion;denutrition
+2;denutrution;denutrition
+2;deompensation;decompensation
+2;depessif;depressif
+2;dermoepidermite;dermo-epidermite
+2;desequilbre;desequilibre
+2;detesse;detresse
+2;detrese;detresse
+2;dettresse;detresse
+2;devait;devant
+2;diab2tique;diabetique
+2;diagnostiques;diagnostique diagnostiquee
+2;dialyser;dialyse dialysee dialyses
+2;difficilae;difficile
+2;dilysee;dialysee
+2;dind;did din
+2;dopplers;doppler
+2;dorigine;origine
+2;drt;dbt dft dr dra dt hrt rt
+2;duodenopancreactectomie;duodenopancreatectomie
+2;dyalysee;dialysee
+2;dylipidemie;dyslipidemie
+2;echerichia;escherichia
+2;edeglutition;deglutition
+2;ehylisme;ethylisme
+2;embarure;embarrure
+2;emboli;embol embole embolie embols
+2;embomie;embolie
+2;encepalique;encephalique
+2;encephalopthie;encephalopathie
+2;encephlopathie;encephalopathie
+2;encore;encorne
+2;enteroccocus;enterococus
+2;enteroque;enterique
+2;epdermoide;epidermoide
+2;epiderrmoide;epidermoide
+2;epilpsie;epilepsie
+2;equivalent;equivalents
+2;eresipele;erysipele
+2;eschemique;ischemique
+2;etc;atc ec emc epc et evc ktc tc
+2;etiquettee;etiquetee
+2;evolu2e;evolue evoluee
+2;evoluer;evolue evoluee
+2;evoque;evolue
+2;evoution;evolution
+2;extrauterine;extra-uterine
+2;faire;aire paire
+2;falcique;calcique
+2;fibillation;fibrillation
+2;final;finale
+2;franchi;franche
+2;fulmiante;fulminante
+2;fungoide;fongoide
+2;gabataire;grabataire
+2;gammapthie;gammapathie
+2;ganlionnaires;ganglionnaires
+2;gastrostomise;gastrostomie
+2;genant;geant
+2;genaral;general
+2;gliblastome;glioblastome
+2;gliobastome;glioblastome
+2;glyoblastome;glioblastome
+2;gouteuse;douteuse goutteuse
+2;grabataires;grabataire
+2;grabatisee;grabatisme
+2;grabbataire;grabataire
+2;hat;at chat haa had hag haut hct hdt hrt mat rat
+2;hcv;ccv hc hch hcl hct hiv hpv hsv
+2;hematone;hematome
+2;hemooragique;hemorragique
+2;hemorrragie;hemorragie
+2;hepathocellulaire;hepatocellulaire
+2;hepatocelulaire;hepatocellulaire
+2;hepatque;hepatique
+2;hepatques;hepatiques
+2;heptiques;hepatiques peptiques septiques
+2;hodgking;hodgkin
+2;hodkinien;hodgkinien hogkinien
+2;hogkin;hodgkin
+2;hosp;host
+2;hpatiques;hepatiques
+2;hpb;cpb hb hpbm hpn hpv hrb pb vpb
+2;hronique;chronique
+2;hupertensive;hypertensive
+2;hyoxique;hypoxique
+2;hypercapenie;hypercapnie
+2;hypercholsterolemie;hypercholesterolemie
+2;hypoximiante;hypoxemiante
+2;hypoxyque;hypoxique
+2;ichemie;ischemie
+2;ihalation;inhalation
+2;iiia;iia iii
+2;iiic;iii
+2;iinfectieuse;infectieuse tinfectieuse
+2;illiaque;iliaque
+2;immunusuppression;immunosuppression
+2;inahalation;inhalation
+2;inconue;inconnue
+2;inderterminee;indeterminee
+2;indifferentie;indifferencie
+2;ineficacite;inefficacite
+2;infartctus;infarctus
+2;inferieus;inferieur inferieurs
+2;inflamatoire;inflamamtoire inflammatoire
+2;infs;inf
+2;ingere;insere
+2;inhaltion;inhalation
+2;inndation;inondation
+2;innhalation;inhalation
+2;insf;inf
+2;insterstitielle;instertitielle interstitielle
+2;institue;institut
+2;insuffiasance;insuffisance
+2;insuffisabnce;insuffisance
+2;insuiffisance;insuffisance
+2;insuuffisance;insuffisance
+2;int;ant in inf inr iot it tnt
+2;interstinale;intestinale
+2;interstitelle;interstitielle
+2;intracerabral;intracerebral
+2;intracerabrale;intracerebrale
+2;intracraniene;intracranien intracranienne intracraniens
+2;intraventiculaire;intraventriculaire
+2;ischemiaue;ischemique
+2;ischemo;ischemi
+2;ischemque;ischemique
+2;ischio;ischion
+2;j10;10 c10 d10 k10 t10 w10
+2;kpneumoniae;pneumoniae
+2;l2l3;l2-l3
+2;lanticoagulation;anticoagulation
+2;lanus;anus lantus
+2;larbre;arbre marbre
+2;leffort;effort lefort
+2;legionelles;legionelle legionnelles
+2;lespace;espace
+2;leucemi;leucemie
+2;lhelium;helium
+2;lhematome;hematome
+2;lhemiface;hemiface
+2;lhemithorax;hemithorax
+2;lhemorragie;hemorragie
+2;lhemostase;hemostase
+2;lhopital;hopital
+2;lhumeur;humeur
+2;lieberkhunien;lieberkunien
+2;lileon;ileon
+2;lob;lab lobe loc loi
+2;lobesite;obesite
+2;lod;leod lid loc loi lsd od
+2;luretre;uretre
+2;lymphocytaite;lymphocytaire
+2;malaide;malade malaire malaise
+2;malign;maligne malin
+2;maltophila;maltophilia
+2;mambres;membres
+2;mas;as bas cas fas mac mais mal map maso mat mav ms nas pas
+2;masive;massive
+2;matastase;metastase
+2;matin;main malin marin
+2;maultiviscerale;multiviscerale
+2;mbs;hbs ms
+2;mdrd;mdr3
+2;mediatinales;mediastinales
+2;melanom;melanome
+2;meme;3eme 5eme 6eme 8eme mere veme
+2;menbranes;membranes
+2;menigiome;meningiome
+2;mesentrique;mesenterique
+2;mestastases;metastases
+2;metasatases;metastases
+2;metasatique;metastatique
+2;metastaique;metastasique metastatique
+2;metastasess;metastases
+2;metastatatique;metastastatique
+2;metastses;metastases
+2;metasttique;metastatique
+2;metatase;metastase metatarse
+2;metestatique;metastatique
+2;miltiviscerale;multiviscerale
+2;miocardique;myocardique
+2;mis;amis bis cis his is mais mi mid mig mise miu ms vis
+2;mises;mise
+2;moe;mce mode mole mot mou mte poe
+2;montre;contre montee
+2;motif;emotif
+2;mulimetastatique;multimetastatique
+2;multi-metastatiques;multi-metastatique
+2;multi-vicerale;multi-viscerale
+2;multivisc2rale;multiviscerale
+2;multivisceralle;multiviscerale
+2;multiviserales;multiviscerales
+2;multumetastase;multimetastase
+2;muyocarde;myocarde
+2;mycarde;myocarde
+2;myeloblastque;myeloblastique
+2;myelopysplasie;myelodysplasie
+2;myielome;myelome
+2;mylome;myelome myome myxome
+2;myocadiopathie;myocardiopathie
+2;myocardipathie;myocardiopathie
+2;naso;baso maso naco nas nash
+2;neplasie;neoplasie neplasme
+2;nerosante;necosante necrosante
+2;neumopathie;neuropathie pneumopathie
+2;neurolyme;neurolyse
+2;nhalation;inhalation
+2;obesitee;obesite
+2;obstuctive;obstructive
+2;obtructive;obstructive
+2;occusif;occlusif
+2;odeme;oedeme
+2;oligodendriogliome;oligodendrogliome
+2;oprerable;operable
+2;orages;orage
+2;orotracheale;oro-tracheale
+2;oseux;osseux
+2;osseues;osseuses
+2;osseusse;osseuse
+2;paliative;palliative
+2;palliatis;palliatif palliatifs
+2;pancrea;pancreas
+2;pancretite;pancreatite
+2;paquets;paquet
+2;pass;ass pas pash passe pays
+2;patites;petites
+2;peforation;perforation
+2;peid;pexid pid
+2;peni;deni penis
+2;peritonie;peritonite
+2;pharyngo;pharynge
+2;phasse;chasse passe phase
+2;pilmonaire;pulmonaire
+2;plaquetaire;plaquettaire
+2;plymetastatique;polymetastatique
+2;pneimopathie;pneumopathie
+2;pneomopathie;pneumopathie
+2;pneummopathie;pneumopathie
+2;pneumopathiie;pneumopathie
+2;pneumoperitoire;pneumoperitoine
+2;pneunopathie;pneumopathie
+2;poly-metastatique;polymetastatique
+2;pomon;poumon
+2;por;bor or par pbr pcr per pkr poe porc port pot pour ppr pr ror
+2;posthemorragique;post-hemorragique
+2;posthypertensive;post-hypertensive
+2;posttraumatique;post-traumatique
+2;poymetastatique;polymetastatique
+2;preocclusive;pre-occlusive
+2;press;dress pres presse
+2;primitf;primitif
+2;prothes;prothese
+2;pt2;pt pte ptg pth pti ptt ptv t2
+2;puilmonaire;pulmonaire
+2;pul;nul pal pl pus
+2;pulmanaire;pulmonaire
+2;pulmnaire;pulmaire pulmonaire
+2;pulmonair;pulmonaire
+2;pulmoniares;pulmoniare
+2;pulmonnaires;pulmonaires
+2;pulmpnaire;pulmonaire
+2;pumonaires;pulmonaires
+2;putrefiee;putrefie
+2;pyo;pmo pno
+2;r2nale;renale
+2;radiot;radio
+2;raoc;rac rao
+2;rattrappee;rattrapee
+2;rdu;du rau reu rtu
+2;realisee;realise
+2;recedive;recidive
+2;recentes;recente recents
+2;refrataire;refractaire
+2;reinale;renale
+2;renle;renale
+2;repetiton;repetition
+2;repitition;repetition
+2;requerante;requerant
+2;rerspiratoire;respiratoire
+2;resoiratoire;respiratoire
+2;respirartoire;respiratoire
+2;respratoire;respiratoire
+2;respriratoire;respiratoire
+2;resuscite;ressuscite
+2;retenue;retenu
+2;retrecissment;retrecissement
+2;rhabdomyolise;rhabdomyolyse
+2;ruture;rupture suture
+2;sdme;edme sdms sdmv
+2;sei;ei gei se sec sein seip sel semi sep sii ski sri svi
+2;senelite;senilite
+2;sensitivo;sensitive
+2;sensitivomotrice;sensitivo-motrice
+2;sepsie;sepsis
+2;septcemie;septicemie
+2;septiqe;septique
+2;sequelaire;sequellaire
+2;setique;septique serique
+2;sevrere;severe sevree
+2;sino;silo sine
+2;smp;mp sap sep smd spp sup
+2;sondee;sodee sonde sondes
+2;sport;port
+2;sptique;optique septique spatique
+2;ssur;smur sur
+2;stade3;stade
+2;staphyllocoque;staphylocoque
+2;streptoccoque;streptocoque
+2;substitue;substituee
+2;supraventiculaire;supraventriculaire
+2;surenaliennes;surrenaliennes
+2;suriinfection;surinfection
+2;svere;avere severe shere
+2;sylvin;sylvien
+2;systematise;systematisee
+2;t3n1;t3n0 t3n2 t3n3
+2;tabgagisme;tabagisme
+2;tabgisme;tabagisme
+2;tachy;tache
+2;teerminale;terminale
+2;tenue;tente
+2;terminaale;terminale
+2;terminakle;terminale
+2;tot;bot iot mot pot tnt toc toit tvt
+2;toxiinfectieux;toxi-infectieux
+2;traitment;traitement
+2;trans-uretrale;transuretrale
+2;traumatise;traumatisme
+2;tricholeucocyte;tricholeucocytes
+2;troble;trouble
+2;trobles;troubles
+2;trombopenie;thrombopenie
+2;troubes;troubles
+2;trouibles;troubles
+2;tythme;rythme
+2;uretero;uretere
+2;urgente;urgence
+2;urinair;urinaire
+2;valculaire;valvulaire vasculaire
+2;vascullaire;vasculaire
+2;veno-occlusive;veino-occlusive
+2;ventilee;ventile ventiles
+2;ventricullaire;ventriculaire
+2;vieillessement;vieillissement
+2;waterien;vaterien
+2;xieme;vieme
+1;508;f508
+1;0rl;orl
+1;102;02 1/2 10 10% 100 10p 10q 12
+1;103;03 1/3 10 10% 100 10p 10q 13
+1;104;1/4 10 10% 100 10p 10q 14
+1;108;10 10% 100 10p 10q 18
+1;10e;10 10% 100 10p 10q
+1;12e;12 12% 125 12p
+1;12h;12 12% 125 12p
+1;147;14 14% 47
+1;149;14 14% 19
+1;1500;100 1000 4500 500
+1;1508;f508
+1;154;1/4 14 15 15%
+1;155;115 125 15 15% 55
+1;160;10 100 16 16% 60
+1;161;11 131 16 16%
+1;167;16 16%
+1;18e;18 18% 18q
+1;18m;18 18% 18q
+1;1multimetastase;multimetastase
+1;207;20 20% 20q 27
+1;211;11 21 c11 d11 t11
+1;212;12 21 22 b12 c12 d12 t12
+1;249;24 24% 2499 29
+1;24l;24 24%
+1;267;26 27
+1;26g;26
+1;2complique;complique
+1;2denutrition;denutrition
+1;2evolution;evolution
+1;2hta;hta
+1;2panchement;epanchement
+1;2pj;pj
+1;307;30 30% 300 37
+1;326;26 32 36
+1;348;3-8 34 38
+1;38s;38 380
+1;3ere;1ere 3eme mere pere
+1;3ieme;3eme vieme
+1;3insuffisance;insuffisance
+1;3semaines;semaines
+1;400;100 300 40 40% 4500 500 600 900
+1;4000;1000 4500
+1;411;11 c11 d11 t11
+1;470;40 47 70
+1;4oap;oap
+1;4obesite;obesite
+1;5adenocarcinome;adenocarcinome
+1;5fausse;fausse
+1;630;30 60 600
+1;654;65%
+1;695;69 95 p95
+1;6inf;inf
+1;730;30 70 73%
+1;7814;7-14
+1;7cm;acm cm scm
+1;7eme;3eme 5eme 6eme 8eme veme
+1;8surface;surface
+1;930;30 90 900 950
+1;9insuffisance;insuffisance
+1;aalcoolique;alcoolique
+1;aaomi;aomi
+1;aaret;arret
+1;aavec;avec
+1;abandance;abondance
+1;abdomial;abdominal
+1;abdomibale;abdominale
+1;abdominaal;abdominal
+1;abdominlale;abdominale
+1;abdomionale;abdominale
+1;abdomonale;abdominale
+1;abestose;asbestose
+1;abevrisme;anevrisme
+1;abgor;angor
+1;abodominale;abdominale
+1;abords;abord
+1;abscence;absence
+1;absces;abces
+1;absominal;abdominal
+1;abtention;abstention attention
+1;abtstention;abstention
+1;abvec;avec
+1;ac-fa;acfa
+1;acarcinose;carcinose
+1;accicent;accident
+1;accidet;accident
+1;accutisation;acutisation
+1;acev;ace
+1;acfac;acfa
+1;acidode;acidose
+1;acidoscetose;acidocetose
+1;acite;acide acte acuite acute agite alite ascite
+1;acivation;activation
+1;acquises;acquise
+1;acquisse;acquise
+1;acrdiaque;acardiaque
+1;actd;act acte acth
+1;actication;activation
+1;acuise;acquise acuite acutise
+1;acuitisee;acutisee
+1;acvec;avec
+1;adam;ada adams adem
+1;adanocarcinome;adenocarcinome
+1;adenacarcinome;adenocarcinome
+1;adenicarcinome;adenocarcinome
+1;adenocarcenome;adenocarcinome
+1;adenocarcimome;adenocarcinome
+1;adenocarcinime;adenocarcinome
+1;adenocarciome;adenocarcinome
+1;adenocatcinome;adenocarcinome
+1;adenorcarcinome;adenocarcinome
+1;adeocarcinome;adenocarcinome
+1;adl;ad ada adh adk ado adp adt al apl atl hdl ldl
+1;admisssion;admission
+1;adv;ad ada adh adk ado adp adt av
+1;aereus;aureus cereus
+1;aeriennees;aeriennes
+1;aero;zero
+1;aevc;avc evc
+1;afca;aca afa anca arca
+1;agauche;gauche
+1;agenesir;agenesie
+1;agor;angor
+1;agranuloytose;agranulocytose
+1;agresivite;agressivite
+1;agrravation;aggravation
+1;ague;age agee aigue bague vague
+1;ahzheimer;alzheimer
+1;aides;acides aide ailes aines
+1;aig;aag aeg ag aic aigu air ait apg cig fig hig ig lig mig
+1;aiguep;aigue aigues
+1;aiguie;aigue
+1;ail;aic aile air ait al apl atl fil nail rail
+1;alacoolo-tabagisme;alcoolo-tabagisme
+1;alazheimer;alzheimer
+1;alccol;alcool
+1;alccolisation;alcoolisation
+1;alcoholisme;alcoolisme
+1;alcolisation;alcoolisation
+1;alcooisme;alcoolisme
+1;alcooloique;alcoolique
+1;alezheimer;alzheimer
+1;algille;alagille
+1;alheimer;alzheimer
+1;alimente;aliment aliments
+1;alitment;aliment alitement
+1;allogreffes;allogreffe allogreffee
+1;alogreffee;allogreffee
+1;alors;lors
+1;alpha1;alpha
+1;alsheimer;alzheimer
+1;altera;altere
+1;alterartion;alteration
+1;alteratin;alteration
+1;alteratrion;alteration
+1;altertion;alteration
+1;altration;alteration
+1;alveolointerstitielle;alveolo-interstitielle
+1;alvulaire;valvulaire
+1;alyeration;alteration
+1;alzheiemer;alzheimer
+1;alzheiler;alzheimer
+1;alzheimere;alzheimer
+1;alzheimzr;alzheimer
+1;alzhzimer;alzheimer
+1;amaigrissment;amaigrissement
+1;amblee;emblee
+1;amigdale;amygdale
+1;ammaire;mammaire
+1;amorexie;anorexie
+1;ampulome;ampullome
+1;amputatuion;amputation
+1;amputee;ampute amputes
+1;amutation;amputation mutation
+1;amygadale;amygdale
+1;amygadalien;amygdalien
+1;analse;anale
+1;anasomose;anastomose
+1;anastomitique;anastomatique anastomotique
+1;ancicoagulant;anticoagulant
+1;ancie;ancien
+1;ancreatique;pancreatique
+1;andgiocholite;angiocholite
+1;anecrysme;anevrysme
+1;anemine;anemie
+1;anesthesistes;anesthesiste
+1;aneuie;anemie
+1;anevisme;anevrisme
+1;anevryme;anevrysme
+1;anevryseme;anevrysme
+1;anevrysma;anevrysme
+1;angicholecystite;angiocholecystite
+1;angio-dyplasie;angiodyplasie
+1;angiocholithe;angiocholite
+1;angiosarcomme;angiosarcome
+1;angoissee;angoisse
+1;angrene;gangrene
+1;ankilosante;ankylosante
+1;anmal;anal animal
+1;annal;anal
+1;ano;aao abo ado an ane ans ant pno
+1;anomaies;anomalies
+1;anomalis;anomalie anomalies
+1;anomallie;anomalie
+1;anoxo-ichemique;anoxo-ischemique
+1;anoxo-ischiemique;anoxo-ischemique
+1;anoxoischemique;anoxo-ischemique
+1;anrerieur;anterieur
+1;ans6;ans anse
+1;antecedants;antecedents
+1;antecedentes;antecedents
+1;antedcedent;antecedent antededent
+1;anteo-septo-apical;antero-septo-apical
+1;anti-angregant;anti-agregant
+1;anti-neoplasique;antineoplasique
+1;anti-synthetases;antisynthetases
+1;antiaggregants;antiagregants
+1;antibiothiques;antibiotiques
+1;anticdoagulant;anticoagulant
+1;anticoaagulant;anticoagulant
+1;anticoaglulants;anticoagulants
+1;anticoagulanats;anticoagulants
+1;anticoagullant;anticoagulant
+1;anticogulant;anticoagulant
+1;anticogulation;anticoagulation
+1;antirejet;anti-rejet
+1;antiretroviral;anti-retroviral
+1;antithrombotique;anti-thrombotique
+1;antithrombotiques;anti-thrombotiques
+1;antivitaminek;antivitamine antivitamines
+1;antocoagulation;anticoagulation
+1;anuique;anurique
+1;anvevrysme;anevrysme
+1;anvrysme;anevrysme
+1;anxie;anoxie
+1;aoc;ac acc aic apc arc atc avc loc toc
+1;aoh;adh avh oh
+1;aomin;aomi
+1;aop;aap acp adp ap avp fop op
+1;aorotique;aortique
+1;aortioque;aortique
+1;aortobiiliaque;aorto-biiliaque
+1;aortobronchique;aorto-bronchique
+1;aortocoronaire;aorto-coronaire
+1;aortocoronaires;aorto-coronaires
+1;aortomesenterique;aorto-mesenterique
+1;aortque;aortique
+1;aoto;auto moto
+1;apasie;abasie aphasie aplasie
+1;apicolateral;apico-lateral
+1;apn2e;apnee
+1;apneee;apnee apnees
+1;apnnee;apnee
+1;apour;pour
+1;appaareille;appareille
+1;appareilee;appareille appareillee
+1;apparent;apparente
+1;apparentes;apparente apparentee
+1;appendicestomie;appendicectomie
+1;apperentee;apparentee
+1;applasie;aplasie
+1;apr7s;apres
+1;apraxi;apraxie
+1;apression;agression opression pression
+1;aquise;acquise
+1;aracnoidienne;arachnoidienne
+1;ardiogenique;cardiogenique
+1;ards;arcs
+1;areb2;areb
+1;areret;arret
+1;areterite;arterite ureterite
+1;ariculaire;articulaire auriculaire
+1;arrect;arret
+1;arrett;arret arrete arrets barrett
+1;arrpet;arret
+1;arrterite;arterite
+1;arterie;artere arteria arteriel arterite
+1;arteriite;arterite
+1;arteriopahie;arteriopathie
+1;arteriopatie;arteriopathie
+1;arteriopethie;arteriopathie
+1;arterioveneuse;arterioveineuse
+1;arteripathie;arteriopathie
+1;artficielle;artificielle
+1;artheriopathies;arteriopathies
+1;artheriosclerose;arteriosclerose artherosclerose
+1;arthmie;arythmie
+1;arthose;arthrose
+1;arthrites;arterites arthrite
+1;arthrtite;arthrite
+1;articles;article
+1;artirielle;arterielle
+1;arto;auto
+1;artret;arret
+1;artriopathie;arteriopathie
+1;ary;ara arc arx
+1;aryhmie;arythmie
+1;aryhmogene;arythmogene
+1;aryhthmie;arythmie
+1;aryrthmie;arythmie
+1;arythme;arythmie rythme
+1;arytmie;arythmie
+1;ascendente;ascendante
+1;ascide;acide ascite
+1;asociee;associee
+1;asohyxie;asphyxie
+1;aspegillose;aspergillose
+1;aspergillomes;aspergillome
+1;aspergilose;aspergillose
+1;asphixie;asphyxie
+1;assiciee;associee
+1;assistances;assistance
+1;asthma;asthme
+1;asystole;asystolie systole
+1;asystoliea;asystolie
+1;asytolie;asystolie
+1;atcdt;atcd
+1;atelecctasie;atelectasie
+1;ateriel;arteriel materiel
+1;ateriopathie;arteriopathie
+1;atheroscleose;atherosclerose
+1;athmatiformes;asthmatiformes
+1;athrite;arthrite
+1;athrodese;arthrodese
+1;athrombose;thrombose
+1;atlectasie;atelectasie
+1;atteine;atteint atteinte
+1;atteinet;atteint
+1;attiente;attente
+1;atypiqie;atypique
+1;auricculaire;auriculaire
+1;auriculaie;auriculaire
+1;aurioculaire;auriculaire
+1;aus;abus ams ans anus as ass ats au aux bus pus sus
+1;auto-immmune;auto-immune
+1;autoanticorps;auto-anticorps
+1;autograffe;autogreffe
+1;autogreffee;autogreffe
+1;autonoie;autonome autonomie
+1;autosondages;auto-sondages
+1;autostrangulation;auto-strangulation
+1;avcfa;acfa
+1;avecc;avec
+1;avei;alvei avci avec avi
+1;averee;avere
+1;avezc;avec
+1;avgec;avec
+1;avs;ams ans as ass ats av avc avh avi avis avk avp tvs
+1;axilaire;axiliaire axillaire
+1;ayriculaire;auriculaire
+1;azheimer;alzheimer
+1;bacilifere;bacillifere
+1;bacteremie;bacteriemie
+1;bacteriemiea;bacteriemie
+1;balthasar;balthazar
+1;balthazard;balthazar
+1;barotraumatique;baro-traumatique
+1;barriatrique;bariatrique
+1;bascterienne;bacterienne
+1;basi;asi bas base baso
+1;bassale;basale
+1;bassins;bassin bassine
+1;bav2;bav bavc
+1;bcpo;bco
+1;bdiabetique;diabetique
+1;begard;regard
+1;bental;bentall mental
+1;betalactamines;beta-lactamines
+1;bi-anti-agregation;bi-antiagregation
+1;biantiagregation;bi-antiagregation
+1;bicker;becker bricker
+1;bifrontocalleux;bifronto-calleux
+1;biiaire;bilaire biliaire iiaire
+1;bilaiaire;biliaire
+1;bilantes;bilantee
+1;bilarerale;bilareral bilaterale
+1;bilatreral;bilareral bilateral
+1;bilio-pancretique;bilio-pancreatique
+1;biliodigestive;bilio-digestive
+1;billateral;bi-lateral bilateral billaterale
+1;billiaire;biliaire
+1;bimaleollaire;bimaleolaire
+1;bimalleolaiire;bimalleolaire
+1;bimalleollaire;bimalleolaire
+1;bioiprothese;bio-prothese bioprothese
+1;bioprotese;bioprothese
+1;bioprothes;bioprothese
+1;bioprothses;bioprotheses
+1;biopsiee;biopsie biopsies
+1;biosie;biopsie
+1;biospsies;biopsies
+1;bipsie;biopsie
+1;bisegmentectomie;bi-segmentectomie
+1;bisphosphonate;biphosphonate
+1;bjambe;jambe
+1;blioblastome;glioblastome
+1;bonchite;bronchite
+1;bpoc;bloc bpc
+1;braches;branches broches
+1;bradicardie;bradycardie
+1;bradyarthmie;bradyarythmie
+1;bradycarcdie;bradycardie
+1;braonchique;bronchique
+1;brnchique;bonchique bronchique
+1;brocho-pulmonaire;broncho-pulmonaire
+1;bronch-pleurale;broncho-pleurale bronchopleurale
+1;bronchie;bronche bronchite
+1;bronchiique;bronchique bronchitique
+1;bronchioalveolaire;bronchio-alveolaire
+1;bronchioloalveolaire;bronchiolo-alveolaire
+1;bronchiopulmonaire;bronchopulmonaire
+1;bronchiqie;bronchique
+1;bronchiquen;bronchique bronchiques
+1;broncho6pneumopathie;broncho-pneumopathie bronchopneumopathie
+1;bronchooesophagienne;broncho-oesophagienne
+1;bronchopatie;bronchopathie
+1;bronchopnemonie;bronchopneumonie
+1;bronchopneumapathie;bronchopneumopathie
+1;bronchopneumopahie;bronchopneumopathie
+1;bronchopneumopatie;bronchopneumopathie
+1;bronchopneumopaties;bronchopneumopathies
+1;bronchopneumpathie;bronchopneumopathie
+1;bronchopneurmopathie;bronchopneumopathie
+1;bronchopnneumopathie;bronchopneumopathie
+1;bronchopulmonaiere;bronchopulmonaire
+1;bronchopulmonaires;broncho-pulmonaires bronchopulmonaire
+1;bronchospame;bronchospasme
+1;bronchoulmonaire;bronchopulmonaire
+1;bronchpneumonie;bronchopneumonie
+1;bronhique;bronchique
+1;bronhite;bronchite
+1;brpnchique;bronchique
+1;bsd;bbd bhd bsa bsg bzd hsd lsd msd
+1;bthalassemie;thalassemie
+1;bucale;buccale
+1;buco;bco bpco
+1;bukitt;burkitt
+1;burger;berger buerger
+1;c2-c5;c2-c3 c3-c5 c4-c5
+1;c3c4;c3-c4
+1;c4c6;c4-c6
+1;c6-t7;c6-c7 t6-t7
+1;caachexie;cachexie
+1;caarcinose;carcinose
+1;cachexir;cachexie
+1;cacinoide;carcinoide
+1;cacinomatose;carcinomatose
+1;cacinome;cancinome carcinome carinome
+1;cacinose;calcinose carcinose
+1;cadence;carence
+1;cadio-respiratoire;cardio-respiratoire
+1;cadiorespiratoire;cardiorespiratoire
+1;cahchexie;cachexie
+1;caircinome;carcinome
+1;calcaneeum;calcaneum
+1;calcyphylaxie;calciphylaxie
+1;calxcul;calcul
+1;camionette;camionnette
+1;cancerr;cancer cancers
+1;cancida;candida
+1;cancver;cancer
+1;candcer;cancer
+1;candidas;candida
+1;candidat;candida
+1;candideme;candidemie
+1;canecer;cancer
+1;canser;cancer
+1;canules;canule
+1;canver;cancer
+1;carcer;cancer
+1;carcimome;carcinome
+1;carcimose;carcinose
+1;carcinaomateuse;carcinomateuse
+1;carcinime;carcinome
+1;carcinme;carcinome
+1;carcinole;carcinome carcinose
+1;carcinomaeuse;carcinomateuse
+1;carcinomateurse;carcinomateuse
+1;carcinomateus;carcinomateuse carcinomateux
+1;carcinomogique;carcinologique
+1;carcinomse;carcinome carcinose
+1;carcinomteuse;carcinomateuse
+1;carcinomue;carcinome
+1;carciome;carcinome
+1;carda;cardia
+1;cardage;cordage
+1;cardaiaque;cardiaque
+1;cardaque;cardiaque
+1;cardfiaque;cardiaque
+1;cardi;cardia
+1;cardi-circulatoire;cardio-circulatoire cardiocirculatoire
+1;cardi-vasculaire;cardio-vasculaire cardiovasculaire
+1;cardiaaque;cardiaque
+1;cardiaaue;cardiaque
+1;cardiac;cardia cardial
+1;cardiaique;cardiaque
+1;cardiaqie;cardiaque
+1;cardiaquie;cardiaque
+1;cardiaquue;cardiaque
+1;cardiaue;cardiale cardiaque
+1;cardiauque;cardiaque
+1;cardigenique;cardiogenique
+1;cardiiaque;cardiaque
+1;cardiiomyopathie;cardiomyopathie
+1;cardiiopathie;cardiopathie
+1;cardiipathie;cardiopathie
+1;cardimyopathie;cardiomyopathie
+1;cardio-ci-rculatoire;cardio-circulatoire
+1;cardio-circulatoir;cardio-circulatoire
+1;cardio-cirulatoire;cardio-circulatoire
+1;cardio-myopathie;cardiomyopathie
+1;cardio-resiratoire;cardio-respiratoire
+1;cardio-respieratoire;cardio-respiratoire
+1;cardio-respiratioire;cardio-respiratoire
+1;cardio-respiratoiere;cardio-respiratoire
+1;cardio-respiratoir;cardio-respiratoire
+1;cardio-respiratore;cardio-respiratoire
+1;cardio-respiratpoire;cardio-respiratoire
+1;cardio-resporatoire;cardio-respiratoire
+1;cardio6circulatoire;cardio-circulatoire cardiocirculatoire
+1;cardioapathie;cardiopathie
+1;cardioathie;cardiopathie
+1;cardiocircolatoire;cardiocirculatoire
+1;cardiocirculatire;cardiocirculatoire
+1;cardiocirculatoires;cardio-circulatoires cardiocirculatoire
+1;cardiocirculatoite;cardiocirculatoire
+1;cardiodrespiratoire;cardio-respiratoire cardiorespiratoire
+1;cardioemboligene;cardio-emboligene
+1;cardioemboliques;cardio-emboliques
+1;cardioenique;cardiogenique
+1;cardiogeniqe;cardiogenique
+1;cardiogeznique;cardiogenique
+1;cardioirespiratoire;cardio-respiratoire cardiorespiratoire
+1;cardiomyipathie;cardiomyopathie
+1;cardiomyoopathie;cardiomyopathie
+1;cardiomyopapthie;cardiomyopathie
+1;cardiomyopathir;cardiomyopathie
+1;cardioogenique;cardiogenique
+1;cardiopathhie;cardiopathie
+1;cardiopathiie;cardiopathie
+1;cardiopathioe;cardiopathie
+1;cardiopatrhie;cardiopathie
+1;cardiopatthie;cardiopathie
+1;cardiopoathie;cardiopathie
+1;cardiopthie;cardiopathie
+1;cardioreapiratoire;cardiorespiratoire
+1;cardiorenale;cardio-renale
+1;cardiorespioratoire;cardiorespiratoire
+1;cardiorespiraoire;cardiorespiratoire
+1;cardiorespiratioire;cardiorespiratoire
+1;cardiorespiratoirei;cardiorespiratoire
+1;cardiorespiratoirer;cardiorespiratoire
+1;cardiorespirtoire;cardiorespiratoire
+1;cardiosrespiratoire;cardio-respiratoire cardiorespiratoire
+1;cardiques;cardiaques
+1;cardo-respiratoire;cardio-respiratoire
+1;cardopulmonaire;cardiopulmonaire
+1;cardqiaque;cardiaque
+1;cardyomyopathie;cardiomyopathie
+1;caricnome;carinome
+1;carinose;carcinose carinome
+1;cario;cargo carie
+1;cario-circulatoire;cardio-circulatoire
+1;cario-respiratoire;cardio-respiratoire
+1;cariocirculatoire;cardiocirculatoire
+1;cariogenique;cardiogenique
+1;cariopathie;cardiopathie
+1;cariorespiratoire;cardiorespiratoire
+1;caroridien;carotidien
+1;carotdienne;carotidienne
+1;carotidde;carotide carotidie
+1;carrentielle;carentielle
+1;cartdiopathie;cardiopathie
+1;carvernome;cavernome
+1;cascades;cascade
+1;casculaire;vasculaire
+1;castelmann;castelman
+1;cateterisme;catheterisme
+1;cathe;cath
+1;catrdiorespiratoire;cardiorespiratoire
+1;ccancer;cancer
+1;cclusion;occlusion
+1;ccoronaropathie;coronaropathie
+1;celluaire;cellulaire
+1;cellues;cellules
+1;celluiles;cellules
+1;cellulare;cellulaire
+1;cellulire;cellulaire cellulite
+1;cellulle;cellule
+1;cellulles;cellules
+1;celulaire;cellulaire
+1;celule;cellule
+1;cenescence;senescence
+1;centr;centre
+1;centriculaire;ventriculaire
+1;cerabrales;cerebrales
+1;cerbrale;cerebrale
+1;cerbrales;cerebrales
+1;cercical;cervical
+1;cerdiaque;cardiaque
+1;cerdiopathie;cardiopathie
+1;cerdiorespiratoire;cardiorespiratoire
+1;cerebal;cerebral
+1;cerebales;cerebrales
+1;cerebelluse;cerebelleuse
+1;cerebralas;cerebrales
+1;cerebralea;cerebrale cerebrales
+1;cerebralel;cerebrale cerebrales
+1;cerebralle;cerebrale
+1;cerebreal;cerebral
+1;cerebrle;cerebrale
+1;cerebromeninge;cerebro-meninge cerebromeningee
+1;cerenrales;cerebrales
+1;cererbral;cerebral
+1;cerrbral;cerebral
+1;cerrebral;cerebral
+1;cervau;cerveau
+1;cervicalen;cervicale cervicales
+1;cetheter;catheter
+1;cetosiques;cetosique
+1;cezary;sezary
+1;chac;chat chc choc
+1;chage;cage charge
+1;change;charge echange
+1;changemet;changement
+1;chaque;chique
+1;charliere;charniere
+1;charnierre;charniere
+1;chcoc;choc
+1;chea;chef chez dhea
+1;chimioterapie;chimiotherapie
+1;chimioth2rapie;chimiotherapie
+1;chimiotheapie;chimiotherapie
+1;chimiotheraoie;chimiotherapie
+1;chimiottherapie;chimiotherapie
+1;chimmiotherapie;chimiotherapie
+1;chinmiotherapie;chimiotherapie
+1;chio;chid chip
+1;chioc;choc
+1;chirrgie;chirurgie
+1;chirrhose;cirrhose
+1;chirurgicatlement;chirurgicalement
+1;chirurugie;chirurgie
+1;chiurgie;chirurgie
+1;chjolangiocarcinome;cholangiocarcinome
+1;chlorydrique;chlorhydrique
+1;chmiotherapie;chimiotherapie
+1;cho;ch chc choc cmo co
+1;chocestase;cholestase
+1;choic;choc
+1;cholagiocarcinome;cholangiocarcinome
+1;cholangioarcinome;cholangiocarcinome
+1;cholangiocarcinom;cholangiocarcinome
+1;cholangiocarcninome;cholangiocarcinome
+1;cholecistectomie;cholecystectomie
+1;cholecytectomie;cholecystectomie
+1;cholescystite;cholecystite
+1;cholestero;cholesterol
+1;cholite;colite
+1;cholostase;cholestase
+1;chondrablastique;chondroblastique
+1;chop;chip choc
+1;chrinique;chronique
+1;chromnique;chronique
+1;chroncique;chronique
+1;chroniqe;chronique
+1;chroniqque;chronique
+1;chroniquie;chronique
+1;chronnique;chronique
+1;chuten;chute chutes
+1;chuttes;chutes
+1;cicatricielles;cicatricielle
+1;cicratrisee;cicatrisee
+1;cicrculatoire;circulatoire
+1;cip;cbp chip ci cia cid cig cis civ clip cp crp csp dip uip
+1;ciphoscoliose;cyphoscoliose
+1;circonferenciel;circonferentiel
+1;circulaitoire;circulatoire
+1;circulartoire;circulatoire
+1;circulatoie;circulatoire
+1;circullatoire;circulatoire
+1;cirrhoe;cirrhose
+1;cirrhos;cirrhose
+1;cirrhotiques;cirrhotique
+1;cirrhrose;cirrhose
+1;cirrohose;cirrhose
+1;cirrrhose;cirrhose
+1;cirulatoires;circulatoires
+1;cisternal;cisternale
+1;citrulinemie;citrullinemie
+1;ck20;cd20
+1;ck7;c7
+1;clacae;cloacae
+1;classee;cassee classe
+1;clerose;sclerose
+1;clocae;cloacae
+1;cloisone;cloison cloisonne
+1;clone;cone
+1;clostridum;clostridium
+1;cm2;c12 c2 cm cmd cmh cmi cmj cmo cmv co2 gm2 m2
+1;cma;ca cca cia cm cmd cmh cmi cmj cmo cmv coma cpa ema pma
+1;cocainomane;cocainomanie
+1;coeliomesenteriques;coelio-mesenteriques
+1;coerulea;caerulea
+1;cognitf;cogniif cognitif
+1;cognitifis;cognitifs
+1;cognitits;cognitifs
+1;colecytomie;colectomie
+1;colexctasie;colectasie
+1;collecte;collectee
+1;collectomie;colectomie colpectomie
+1;coloon;colon
+1;coloscopies;coloscopie
+1;come;bome coma cone cote dome home
+1;comitialte;comitiale comitialite
+1;comitilalite;comitialite
+1;comminicante;communicante
+1;commuen;commun
+1;communicant;communicante
+1;compiquee;compliquee
+1;complere;complete complexe
+1;complerte;complete
+1;complicatons;complications complicaton
+1;compliqu2e;complique compliquee
+1;comporetement;comportement
+1;compressiv;compressif compressive
+1;comprssion;compresion compression
+1;comprtement;comportement
+1;comstrictive;constrictive
+1;comunautaire;communautaire
+1;conforts;confort
+1;confusionnele;confusionnel confusionnelle confusionnels
+1;congestiva;congestive
+1;congnitifs;cognitifs
+1;conotroncale;cono-troncale conotronchale
+1;consciance;conscience
+1;consciences;conscience
+1;consience;conscience
+1;constituee;constitue
+1;consulsive;convulsive
+1;contac;contact
+1;contextre;contexte
+1;continus;contigus continu continue
+1;contro;contre
+1;contusionnelles;confusionnelles
+1;conue;cone connue conque
+1;cop;cbp co co2 col cou coup cp crp csp fop op
+1;copntexte;contexte
+1;coposante;composante
+1;coranaire;coronaire
+1;coranaires;coronaires
+1;coraonaropathie;coronaropathie
+1;cornarienne;cornariennes coronarienne
+1;coronaienne;coronarienne
+1;coronanrien;coronarien
+1;coronaoropathie;coronaropathie
+1;coronariene;coronarien coronarienne coronariens
+1;coronnarien;coronarien
+1;coronnaropathie;coronaropathie
+1;coropnaropathie;coronaropathie
+1;corp;cori coro corps cors coup crp
+1;corrige;corrigee
+1;corronarien;coronarien
+1;corronaropathie;coronaropathie
+1;cortico-surenalome;cortico-surrenalome
+1;corticobasale;cortico-basale
+1;corticoresistant;cortico-resistant
+1;corticoresistante;cortico-resistante
+1;corticotherape;corticotherapie
+1;corticotherapee;corticotherapie
+1;cortisonee;cortisone
+1;cortoicoides;corticoides
+1;coticoide;corticoide
+1;couer;cour
+1;cous;clous cofs cols cors cou coup coups cour cours mous sous
+1;coxarthose;coxarthrose
+1;coyloidienne;cotyloidienne
+1;craniennne;cranienne
+1;craniocerebrale;cranio-cerebrale
+1;craniocerebrales;cranio-cerebrales
+1;craniofaciale;cranio-faciale
+1;cranyopharyngiome;craniopharyngiome
+1;crcinome;carcinome
+1;crcne;crane
+1;crdiaque;cardiaque
+1;crdio-respiratoire;cardio-respiratoire
+1;crdiopathie;cardiopathie
+1;crdiorespiratoire;cardiorespiratoire
+1;crebrale;cerebrale
+1;creutzfeldt-jacob;creutzfeldt-jakob
+1;cris;bris cis cri cric crise gris iris
+1;ct4;c14 c4 cd4 ct t4
+1;ctc;atc cec chc cpc ct ktc tc
+1;cuase;case crase
+1;cuirculatoire;circulatoire
+1;cul;cal cl col nul
+1;curable;durable
+1;curitherapie;curietherapie
+1;curre;curare cure
+1;cusching;cushing
+1;cutan2es;cutanees cutanes
+1;cutaneees;cutanees
+1;cutaneo;cutane cutanee cutanes
+1;cyctolyse;cytolyse
+1;cyphoscliose;cyphoscoliose
+1;cystocat;cystocath
+1;cytolise;cytolyse
+1;cytopenies;cytopenie
+1;czrdio-respiratoire;cardio-respiratoire
+1;d2compensation;decompensation
+1;d2compensee;decompensee
+1;d2d3;d2-d3
+1;dabete;diabete
+1;daefaillance;defaillance
+1;dapnee;apnee
+1;datee;date ratee
+1;davc;avc bavc
+1;ddefaillance;defaillance
+1;ddroit;droit drroit
+1;ddu;ddb diu du
+1;deaillance;defaillance
+1;debutrition;denutrition
+1;dec;cec de dem des dpc ec iec pec sec
+1;deccompensation;decompensation
+1;decelee;decedee
+1;decelerations;deceleration
+1;decidee;decedee
+1;decison;decision
+1;declares;declare declaree
+1;decmpensation;decompensation
+1;decompaensation;decompensation decompoensation
+1;decompensa1tion;decompensation
+1;decompensaations;decompensations
+1;decompensaion;decompensation
+1;decompensartion;decompensation
+1;decompensatin;decompensation
+1;decompensatio;decompensation
+1;decompensdation;decompensation
+1;decompenstation;decompensation
+1;decomppensation;decompensation decompoensation
+1;decompresion;decompression
+1;decpmpensation;decompensation
+1;decpompensation;decompensation
+1;decubituus;decubitus
+1;dedaillance;defaillance
+1;dedicience;deficience
+1;deecompensation;decompensation
+1;defaillaence;defaillance
+1;defaillancve;defaillance
+1;defaillanvce;defaillance
+1;defallance;defaillance
+1;defaullance;defaillance
+1;deffaillances;defaillances
+1;defficit;deficit
+1;defibrallateur;defibrillateur
+1;definitve;definitive
+1;defvorable;defavorable
+1;degaillance;defaillance
+1;degenaratif;degeneratif
+1;degenarative;degenerative
+1;deglutiion;deglutition
+1;deglutiotion;deglutition
+1;deglutitiion;deglutition
+1;deglutititon;deglutition
+1;degluttion;deglutition
+1;degluttition;deglutition
+1;deglutution;deglutition
+1;degradadtion;degradation
+1;degres;degre
+1;deliriulm;delirium
+1;demblee;emblee
+1;demece;demence
+1;demenc;demence dement
+1;demencea;demence
+1;demences;defences demence
+1;demene;demence dement demente
+1;demenxce;demence
+1;demi;dem deni dmi domi semi
+1;demo-hypodermite;dermo-hypodermite
+1;demohypodermite;dermohypodermite
+1;dencombrement;encombrement
+1;denocarcinome;adenocarcinome
+1;denurtrition;denutrition
+1;denutriion;denutrition
+1;denutriition;denutrition
+1;denutririon;denutrition
+1;denutritiion;denutrition
+1;denutritin;denutrition
+1;denutritinon;denutrition
+1;denutritioan;denutrition
+1;denutritionn;denutrition
+1;denutritions;denutrition
+1;deopuis;depuis
+1;deoressif;depressif
+1;depandance;dependance
+1;depar;depart
+1;depedant;dependant
+1;deprerssion;depression
+1;depresson;depression
+1;depresszif;depressif
+1;deprssif;depressif
+1;deptique;peptique septique
+1;deresse;detresse
+1;dermato-fibrosarcome;dermatofibrosarcome
+1;dermato-polymyosite;dermatopolymyosite
+1;derresse;detresse
+1;deshdratation;deshydratation
+1;deshydratato;deshydrataton
+1;deshydratattion;deshydratation
+1;desincertion;desinsertion
+1;desmoplasmique;desmoplasique desmoplastique
+1;destresse;detresse
+1;desz;des
+1;deterioretion;deterioration
+1;detreese;detresse
+1;detrerse;detresse
+1;detrersse;detresse
+1;detresser;detresse detresses
+1;detrtesse;detresse
+1;deu;de dem des deux diu du feu geu jeu peu reu
+1;deuence;demence
+1;devaillance;defaillance
+1;devere;devore severe
+1;devouverte;decouverte
+1;dhemiplegie;hemiplegie
+1;diabee;diabete
+1;diabete2;diabete
+1;diabetes;diabete
+1;diabte;diabete
+1;diabtete;diabete
+1;diagostic;diagnostic
+1;dialise;dialyse
+1;dialyee;dialyse dialysee
+1;diaphragmantique;diaphragmatique
+1;diatation;dilatation
+1;diatee;dilatee
+1;diatolique;diastolique
+1;diaysee;dialysee
+1;diebete;diabete
+1;difficult2s;difficultes
+1;diffusin;diffusion
+1;diffuuses;diffuses
+1;dig;cig d-g di did din dip dir diu fig hig ig lig mig
+1;digesive;digestive
+1;digestf;digestif
+1;dignostic;diagnostic
+1;dignostique;diagnostique
+1;diissemine;dissemine
+1;dikatee;dilatee
+1;dilat2;dilate
+1;dilataton;dilatation
+1;dilateee;dilatee dilatees
+1;dilation;dilution
+1;dinsuffisance;insuffisance
+1;disceminee;disseminee
+1;disection;dissection
+1;diseminee;disseminee
+1;diseminees;disseminees
+1;dislipidemie;dyslipidemie
+1;dissociatin;dissociatif dissociation
+1;distention;distension
+1;diverticlite;diverticulite
+1;dobliterante;obliterante
+1;documentes;documentee
+1;doites;doite droites
+1;donc;don
+1;dossociation;dissociation
+1;doubles;double
+1;dpdt;dpd pdt
+1;droie;droit droite
+1;droitee;droite droites
+1;drote;droite
+1;dst;dbt dft ds dsa dsh dsta dt mst st
+1;dstade;stade
+1;dtresse;detresse
+1;dtroit;droit drroit etroit
+1;dtrouble;trouble
+1;dubin;dublin
+1;duchesne;duchenne
+1;dudodenal;duodenal
+1;dues;des due dukes dures durs
+1;duodenojejunal;duodeno-jejunal
+1;dupranucleaire;supranucleaire
+1;durdosage;surdosage
+1;duremerienne;dure-merienne
+1;dyalyse;dialyse
+1;dyarrhee;diarrhee
+1;dyfonction;dysfonction
+1;dysfonstion;dysfonction
+1;dyshrythmique;dysarythmique dysrythmique
+1;dyslipedemie;dyslipidemie
+1;dyslipideie;dyslipidemie
+1;dystyroidie;dysthyroidie
+1;e10;10 c10 d10 k10 t10 w10
+1;eavec;avec
+1;ebvolution;evolution
+1;echafaudaje;echafaudage
+1;echappemebt;echappement
+1;echappemet;echappement
+1;ecto-sigmoidien;recto-sigmoidien
+1;ede;de edex edf edme pde
+1;edeme;edme oedeme
+1;eenutrition;denutrition
+1;eilepsie;epilepsie
+1;einhalation;inhalation
+1;einsuffisance;insuffisance
+1;eischerichia;escherichia
+1;elastose;blastose
+1;elective;selective
+1;electomecanique;electromecanique
+1;electrlytiques;electrolytiques
+1;electro6mecanique;electro-mecanique electromecanique
+1;electrolitique;electrolytique
+1;elevees;elevee eleves
+1;embilie;embolie
+1;emble;emblee embole
+1;embleee;emblee
+1;embles;emblee emboles
+1;emboilique;embolique
+1;emeningiome;meningiome
+1;emery;mery
+1;emphysemefibrose;emphyseme-fibrose
+1;emyocarde;myocarde
+1;enceephalique;encephalique
+1;encepalite;encephalite enceplalite
+1;encephaliqe;encephalique encephalite
+1;encephaloopathie;encephalopathie
+1;encephalopahie;encephalopathie
+1;encephaloparthie;encephalopathie
+1;encephalopathies;encephalopathie
+1;encephalopathioe;encephalopathie
+1;encephalopathoie;encephalopathie
+1;encephalopatrhie;encephalopathie
+1;encephalopoathie;encephalopathie
+1;encephamopathie;encephalopathie
+1;enchephalique;encephalique
+1;encocardite;endocardite
+1;encombrerment;encombrement
+1;encombrment;encombrement
+1;endacteriectomie;endarteriectomie
+1;endarterictomie;endarteriectomie
+1;endarteriectiomie;endarteriectomie
+1;endobroncique;endobronchique
+1;endocardirte;endocardite
+1;endocartite;endocardite
+1;endocine;endocrine
+1;endooesophagienne;endo-oesophagienne
+1;endoprotheses;endoprothese
+1;endoscopiques;endoscopique
+1;enephalopathie;encephalopathie
+1;enfection;infection
+1;engaegement;engagement
+1;engagements;engagement
+1;engainant;engainante
+1;engangement;engagement
+1;enleve;eleve
+1;entero-bacter;enterobacter
+1;entero-entetale;entero-enterale
+1;enterobbacter;enterobacter
+1;enterobecter;enterobacter
+1;enteroccoque;enterocoque
+1;enterocutanee;entero-cutanee
+1;entrainer;entraine entraineur
+1;envahissante;envahissant envahissants
+1;eoluee;evoluee
+1;eopidurite;epidurite
+1;eoplasie;neoplasie
+1;epanchelment;epanchement
+1;epi;cpi ei ep epc epo
+1;epidemidis;epidermidis
+1;epiderdidis;epidermidis
+1;epidermedis;epidermidis
+1;epidermmoide;epidermoide
+1;epidermoie;epidermoide
+1;epidermoiide;epidermoide
+1;epidermoise;epidermoide
+1;epidermpoide;epidermoide
+1;epidernoide;epidermoide
+1;epiglotique;epiglottique
+1;epilepsue;epilepsie
+1;epiletique;epileptique
+1;epilpepsies;epilepsies
+1;eplepsie;epilepsie
+1;epsis;sepsis
+1;eptique;optique peptique septique
+1;equerant;requerant
+1;equilibrer;equilibre equilibree
+1;ere;1ere erv mere pere pre
+1;erespiratoire;respiratoire
+1;erisipele;erysipele
+1;ern;en erv prn
+1;erydipele;erysipele
+1;erysispele;erysipele
+1;eryspipele;erysipele
+1;escarrhe;escarre
+1;esch;sch
+1;eschericia;escherichia
+1;escrre;escarre
+1;esherichia;escherichia
+1;esploration;exploration
+1;esscarres;escarres
+1;essudative;exsudative
+1;etandu;etendu
+1;etelectasie;atelectasie
+1;ethiologie;etiologie
+1;ethulique;ethylique
+1;ethyliisme;ethylisme
+1;etiologoe;etiologie
+1;etiquetees;etiquetee etiquetes
+1;etiquette;etiquete etiquetee
+1;etiquettes;etiquetes
+1;etiqutee;etiquetee
+1;etologie;etiologie
+1;etreme;extreme
+1;evac;eva evc vac
+1;evahissement;envahissement
+1;evaluation;evacuation
+1;evlolue;evolue
+1;evlution;evolution
+1;evol;vol
+1;evollution;evolution
+1;evoluante;evoluant
+1;evoluation;evolution
+1;evolutifs;evolutif
+1;evolutipon;evolution
+1;evoluution;evolution
+1;evoluytion;evolution
+1;evotution;evolution
+1;evvolution;evolution
+1;ewwing;ewing
+1;exatrapyramidal;extrapyramidal
+1;exes;axes ees exces
+1;explor2;explore
+1;explores;explore
+1;expostion;exposition
+1;exserese;exerese
+1;ext;et ex
+1;extensions;extension
+1;exteriorises;exteriorise exteriorisee exteriorisees
+1;extesion;extension
+1;extra-pontine;extrapontine
+1;extrathoracique;extra-thoracique
+1;extrme;extreme
+1;fab;ab fa fac fas fav lab
+1;facialesi;faciales
+1;fair;air fahr faim fait hair
+1;faite;fait fuite
+1;falot;fallot
+1;fatal;fatale
+1;fauses;causes fausses fautes pauses
+1;favorisees;favorisee
+1;fce;ace cce ce face fcf fcp fcs mce tce
+1;fefaillance;defaillance
+1;fej;fer feu
+1;fem;dem fer feu gem nem
+1;femiur;femur
+1;femoralei;femorale femorales
+1;femorao-poplite;femoro-poplite
+1;femu;femur feu
+1;femural;femoral
+1;femurale;femorale
+1;femure;femur femurs
+1;fepatique;hepatique
+1;ffibrose;fibrose
+1;fibbrillation;fibrillation
+1;fiblillation;fibrillation
+1;fibrallation;fibrillation
+1;fibriallation;fibrillation
+1;fibrillationn;fibrillation fibrillations
+1;fibrillatiopn;fibrillation
+1;fibrillatiuon;fibrillation
+1;fibro;fibre
+1;fibroemphysemateuses;fibro-emphysemateuses
+1;fibrtillation;fibrillation
+1;fiibrillation;fibrillation
+1;fine;aine fin fixe kine line mine sine
+1;fisctule;fistule
+1;fistula;fistule
+1;fistumle;fistule
+1;fisule;fistule
+1;flaboyant;flamboyant
+1;flamme;flammes
+1;foecalome;fecalome
+1;fonctionneelle;fonctionnelle
+1;fontions;fonctions
+1;form;forme fort
+1;formel;forme formol
+1;fraccture;fracture
+1;fractue;fracture
+1;fracutre;fracure
+1;fragilisee;fragilise
+1;fragilites;fragilite
+1;frcture;farcture fracture friture
+1;freqence;frequence
+1;friedrich;friedreich
+1;fronto-caleux;fronto-calleux
+1;frontoparietal;fronto-parietal frontoparietale
+1;frotale;frontale
+1;fuminante;fulminante
+1;fundiques;fundique
+1;gabatisation;grabatisation
+1;gamapathie;gammapathie
+1;gamme;gamma
+1;ganaglionnaires;ganglionnaires
+1;gancglionnaire;ganglionnaire
+1;gand;gant gland grand
+1;gangionnaire;ganglionnaire
+1;ganglioglioma;gangliogliome
+1;ganglionnairs;ganglionnaire ganglionnaires
+1;ganglionnanires;ganglionnaires
+1;ganglionnnaires;ganglionnaires
+1;ganglioonaires;ganglionaires ganglionnaires
+1;gangrenne;gangrene gangrenee
+1;ganrene;gangrene
+1;gasrique;gastrique
+1;gasro-enterite;gastro-enterite
+1;gastero-enterite;gastro-enterite
+1;gastique;gastrique
+1;gastreoenterite;gastroenterite
+1;gastro-oeosophagien;gastro-oesophagien
+1;gastro6enterite;gastro-enterite gastroenterite
+1;gastrointestinale;gastro-intestinale
+1;gastrstomie;gastostomie gastrostomie gastrotomie
+1;gatrique;gastrique
+1;gatro-enterite;gastro-enterite
+1;gaucche;gauche gauiche
+1;gauch;gauche
+1;gaudhe;gauche
+1;gauhe;gache gauche
+1;gavc;avc bavc gave
+1;gayet;galet
+1;gde;de gd gpe pde
+1;geeral;general
+1;genenale;generale
+1;genese;genes
+1;genglionnaire;ganglionnaire
+1;genous;genou genoux
+1;genreral;general
+1;gentaline;gentalline
+1;gerstmann-straussler-scheinher;gerstmann-straussler-scheinker
+1;gestes;geste
+1;gge;age ggl gpe ige oge
+1;ggs;ggl
+1;gingivomandibulaire;gingivo-mandibulaire
+1;gioblastome;glioblastome
+1;gir2;gir
+1;gladoli;gladioli
+1;glasgow3;glasgow
+1;glioblatome;glioblastome
+1;glioblstome;glioblastome
+1;glissment;glissement
+1;globable;globale
+1;globlastome;glioblastome
+1;glssement;glissement
+1;goopasture;goodpasture
+1;gouerot-sjogren;gougerot-sjogren
+1;grabatairer;grabataire
+1;grabataite;grabataire
+1;grabatatire;grabataire
+1;grabateriqation;grabaterisation
+1;grabaterisations;grabaterisation
+1;grabatisationh;grabatisation
+1;grabatsisation;grabatisation
+1;grabrtaire;grabataire
+1;grabtaire;grabataire
+1;grabtisation;grabatisation
+1;grade3;grade
+1;gramm;gram gram- gram+
+1;grangrene;gangrene
+1;granien;cranien
+1;grans;grains grand grands gras
+1;gravis;graves
+1;gravisssime;gravissime
+1;grill;brill gril grille
+1;grippea;grippe
+1;grossese;grosses grossesse
+1;guerrie;guerie guerre
+1;haemophylus;haemophilus
+1;hap;aap ap gap haa had hag hbp hnp hrp htap htp map oap sap tap
+1;hauteurt;hauteur
+1;hbv;cbv ebv hb hbc hbp hbs hiv hpv hsv
+1;hdi;di hdl hdt
+1;heapatite;hepatite
+1;hebdomadaire;hebdomadaires
+1;heidenhaim;heidenhain
+1;helmatome;hematome
+1;helorragique;hemorragique
+1;hemaorragie;hemorragie
+1;hemathemese;hematemese
+1;hematite;hepatite
+1;hematorachis;hematorrachis
+1;hematurie ;hematurie hematuries
+1;hemeplegie;hemiplegie
+1;hemetemese;hematemese
+1;hemi;semi
+1;hemiglegie;hemiplegie
+1;hemimegalencephalie;hemi-megalencephalie
+1;hemiparesi;hemiparesie
+1;hemipherique;hemispherique
+1;hemmodynamique;hemodynamique
+1;hemngio-endotheliome;hemangio-endotheliome
+1;hemocculture;hemoculture
+1;hemodynamiiue;hemodynamique
+1;hemodynmique;hemodynamique
+1;hemoirragie;hemorragie
+1;hemopericard;hemopericarde
+1;hemopertoine;hemoperitoine
+1;hemophilus;haemophilus
+1;hemophylie;hemophilie
+1;hemoraagique;hemorragique
+1;hemoragies;hemorragies
+1;hemorhagie;hemorragie
+1;hemorrage;hemorragie
+1;hemorraggique;hemorragique
+1;hemorraghie;hemorragie
+1;hemorraghies;hemorragies
+1;hemorragiqe;hemorragie hemorragique
+1;hemorragiquse;hemorragique
+1;hemorraigque;hemorragque
+1;hemorrgique;hemorragique
+1;hemorrhagie;hemorragie
+1;hemorrhagique;hemorragique
+1;hemorrragique;hemorragique
+1;hemortragie;hemorragie
+1;hemotome;hematome
+1;hemotysie;hemoptysie
+1;hempiplegie;hemiplegie
+1;hemrragie;hemorragie
+1;henaturie;hematurie
+1;heoatite;hepatite
+1;heoatocellulaire;hepatocellulaire
+1;heorragie;hemorragie
+1;hep;ep gep hbp he hed hnp hrp htp sep tep
+1;hepaique;hepatique
+1;hepatitec;hepatite hepatites
+1;hepato-celllulaire;hepato-cellulaire
+1;hepato-pulmonaires;hepato-pulmonaire
+1;hepatocacinome;hepatocarcinome
+1;hepatocarninome;hepatocarcinome
+1;hepatocelluraire;hepatocellulaire
+1;hepatoique;hepatique
+1;hepatomegallie;hepatomegalie
+1;hepatrique;hepatique
+1;hepayique;hepatique
+1;heptatiques;hepatiques
+1;her;1er eer fer he hed hnr mer per rer ter
+1;herceptine;herceptin
+1;heterotopies;heterotopie
+1;heterozygotes;heterozygote
+1;hinhalation;inhalation
+1;hiv1;hiv hiv+ hiv3 hiv4 hivg hsv1
+1;hmorragie;hemorragie
+1;hoc;choc hbc hc hic hvc loc toc
+1;hodghkin;hodgkin
+1;hodghkinien;hodgkinien
+1;hodgikinien;hodgkinien
+1;hodgkien;hodgkin
+1;hodjkinien;hodgkinien
+1;hodkin;hodgkin
+1;hommogreffe;homogreffe
+1;homolateral;homolaterale
+1;homonotherapie;hormonotherapie
+1;hormonoresistant;hormono-resistant
+1;hosgkinien;hodgkinien hogkinien
+1;hpa;bpa cpa dpa haa hla hpn hpv hsa hta spa
+1;hpatique;hepatique spatique
+1;hres;pres tres
+1;htpertension;hypertension
+1;hugtington;huntington
+1;humerakle;humerale
+1;hutington;huntington
+1;hyatale;hiatale
+1;hydo-electrolytique;hydro-electrolytique
+1;hydonephrose;hydronephrose
+1;hydro-electrolitiques;hydro-electrolytiques
+1;hydroelectolytiques;hydroelectrolytiques
+1;hydroelectriques;hydro-electriques
+1;hydroelectrolitique;hydroelectrolytique
+1;hydronephose;hydronephrose
+1;hydrossodee;hydro-sodee hydrosodee
+1;hyertension;hypertension
+1;hyertensive;hypertensive
+1;hylinose;hyalinose
+1;hymomaniaque;hypomaniaque
+1;hyoertrophie;hypertrophie
+1;hyokaliemie;hypokaliemie
+1;hyoxemiante;hypoxemiante
+1;hypecapnique;hypercapnique
+1;hypemetabolisme;hypermetabolisme hypometabolisme
+1;hyperapnie;hypercapnie
+1;hypercanique;hypercapnique
+1;hypercaonique;hypercapnique
+1;hypercapniq;hypercapnie
+1;hypercapniques;hypercapnique
+1;hypercpnique;hypercapnique
+1;hyperexitabilite;hyperexcitabilite
+1;hyperglycemies;hyperglycemie
+1;hyperhydratatioon;hyperhydratation
+1;hyperkalemie;hyperkaliemie
+1;hyperkalielie;hyperkaliemie
+1;hyperkaliemeie;hyperkaliemie
+1;hyperkalimemie;hyperkaliemie
+1;hyperkalliemie;hyperkaliemie
+1;hyperkliemie;hyperkaliemie
+1;hyperleucocitose;hyperleucocytose
+1;hypernaremie;hypernatremie
+1;hypernatriemie;hypernatremie
+1;hyperosmolair;hyperosmolaire
+1;hyperpefusion;hyperperfusion
+1;hypersensibilte;hypersensibilite
+1;hypertensione;hypertension hypertensions
+1;hypertesion;hypertension
+1;hypertherrmie;hyperthermie
+1;hypertophie;hypertrophie
+1;hypertophique;hypertrophique
+1;hypioxique;hypoxique
+1;hypoalbumineme;hypoalbuminemie
+1;hypodemite;hypodermite
+1;hypoglycemiquie;hypoglycemique
+1;hypokinetiqye;hypokinetique
+1;hypoknetique;hypokinetique
+1;hypothiroidie;hypothyroidie
+1;hypothyroide;hypothyroidie
+1;hypotthyroidie;hypothyroidie
+1;hypoventillation;hypoventilation
+1;hypovolemeique;hypovolemique
+1;hypoxemiate;hypoxemiante
+1;hypoxeminte;hypoxemiante
+1;hypoxiemiante;hypoxemiante
+1;hypoximique;hypoxemique
+1;hypoxiue;hypoxie hypoxique
+1;hypoyhyroidie;hypothyroidie
+1;hypoyolemie;hypovolemie
+1;iague;bague vague
+1;iaim;faim
+1;ibnsuffisance;insuffisance
+1;ibrillation;fibrillation
+1;icardi;aicardi
+1;ice;ace cce ce ic ica icc icd icf icg icr ige ile mce tce
+1;ictera;ictere
+1;icteriques;icterique
+1;ictero;ictere
+1;idem;adem dem idm
+1;idifferencie;differencie indifferencie
+1;idopathique;idiopathique
+1;iflammatoire;inflammatoire
+1;iinfection;infection
+1;iins;ains pins
+1;iintraperitoneal;intraperitoneal
+1;iirc;irc
+1;ijnsuffisance;insuffisance
+1;ileae;ileal ileale
+1;ileo6colique;ileo-colique ileocolique
+1;ileocolite;ileo-colite
+1;iliopubienne;ilio-pubienne
+1;ilique;iliaque
+1;immnunodepression;immunodepression
+1;immundodepression;immunodepression
+1;immuno-depression;immunodepression
+1;immunodepresssion;immunodepression
+1;immunosupresseur;immunosuppresseur
+1;implatation;implantation
+1;impossibilte;impossibilite
+1;inalation;inflation inhalation
+1;inarctus;infarctus
+1;inatendue;inattendue
+1;incarctus;infarctus
+1;incohercible;incoercible
+1;incohercibles;incoercibles
+1;incompetance;incompetence
+1;incontrolables;incontrolable
+1;inconu;inconnu
+1;incoonue;inconnue
+1;ind;icd id igd in inf inr ivd
+1;inde;index iode
+1;indederminee;indeterminee
+1;indefferencie;indifferencie
+1;indeterminees;indeterminee
+1;indeterrminee;indeterminee
+1;indiferrencie;indifferrencie
+1;inditerminee;indeterminee
+1;inection;infection injection
+1;inerstitielle;interstitielle
+1;infacrctus;infarctus
+1;infactieuse;infectieuse
+1;infactoide;infarctoide
+1;infarcts;infarctus
+1;infarctue;infarctus
+1;infarcturs;infarctus
+1;infarctuse;infarctus
+1;infarcus;infarctus
+1;infecteuse;infectieuse
+1;infecteux;infectieux
+1;infectieusr;infectieuse
+1;infectieuxe;infectieuse infectieux
+1;infectiex;infectieux
+1;infectio;infection
+1;infectizeuse;infectieuse
+1;infectoeuse;infectieuse
+1;infectrion;infection
+1;infectueuse;infectieuse
+1;infectus;infectes
+1;infedtion;infection
+1;infeieur;inferieur
+1;infereurs;inferieurs
+1;inferieiurs;inferieurs
+1;inferiers;inferieurs
+1;inferiur;inferieur
+1;infermite;infirmite
+1;infiltarnt;infiltant
+1;infiltrantl;infiltrant infiltrante
+1;infirm;infirme
+1;infirmee;infirme
+1;infitrative;infiltrative
+1;infra-tentoriel;infratentoriel
+1;inguinbale;inguinale
+1;inguinoscrotale;inguino-scrotale
+1;ingunale;inguinale
+1;inhalaion;inhalation
+1;inhalataion;inhalation
+1;inhalatioon;inhalation
+1;inhale;inhales
+1;inhaltation;inhalation
+1;inhlalation;inhalation
+1;initiales;initiale
+1;injectes;infectes injecte insectes
+1;innexplique;inexplique
+1;innopine;innomine inopine
+1;inntestinale;intestinale
+1;inodation;inondation
+1;inschemique;ischemique
+1;instables;instable
+1;institutionnalisaton;institutionnalisation
+1;insuffasance;insuffisance
+1;insufffisances;insuffisances
+1;insuffiant;insuffisant
+1;insuffiosance;insuffisance
+1;insuffisa2nce;insuffisance
+1;insuffisabce;insuffisance
+1;insuffisancec;insuffisance insuffisances
+1;insuffisancre;insuffisance
+1;insuffisancs;insuffisance insuffisances insuffisants
+1;insuffisancxe;insuffisance
+1;insuffisancz;insuffisance
+1;insuffiscance;insuffisance
+1;insuffisence;insuffisance
+1;insuffisqance;insuffisance
+1;insuffizance;insuffisance
+1;insuffosance;insuffisance
+1;insuffssance;insuffisance
+1;insufiisance;insuffisance
+1;insufisante;insuffisante
+1;insuino-necessitant;insulino-necessitant
+1;insulindependant;insulinodependant
+1;insulino-depandant;insulino-dependant
+1;insulino6dependant;insulino-dependant insulinodependant
+1;insulinodependent;insulinodependant
+1;insulinoqrequerant;insulino-requerant
+1;insulno-requerant;insulino-requerant
+1;intacellulaire;intracellulaire
+1;intaparenchymateux;intraparenchymateux
+1;intersitielle;interstitielle
+1;intersititielle;interstitielle
+1;interventriculiaire;interventriculaire
+1;interventriculire;interventriculaire
+1;intesinale;intestinale
+1;intioxication;intoxication
+1;intolerence;intolerance
+1;intoxixation;intoxication
+1;intra-canallaire;intra-canalaire
+1;intra-cellulaires;intra-cellulaire
+1;intra-venticulaire;intra-ventriculaire
+1;intraabdominal;intra-abdominal
+1;intrabronchique;intra-bronchique
+1;intracellulaie;intracellulaire intracellulare
+1;intracraienne;intracranienne
+1;intracranioenne;intracranienne
+1;intracrannien;intracranien
+1;intracrebrale;intracerebrale
+1;intracrnienne;intracranienne
+1;intrafamiliale;intra-familiale
+1;intraparemchymateux;intraparenchymateux
+1;intraparenchimateuse;intraparenchymateuse
+1;intraprenchymateux;intraparenchymateux
+1;intrauterin;intra-uterin
+1;intrauterine;intra-uterine
+1;intraveineuses;intra-veineuses intraveineuse
+1;intrcranienne;intracranienne
+1;intubations;intubation
+1;intubee;intube
+1;intubtion-ventilation;intubation-ventilation
+1;inusuffisance;insuffisance
+1;inxplique;inexplique
+1;ionoques;ioniques
+1;ique;tique
+1;irrhose;cirrhose
+1;isch2mie;ischemie
+1;ischeique;ischemique
+1;ischemaique;ischemique
+1;ischemei;ischemi
+1;ischemeie;ischemie
+1;ischemeique;ischemique
+1;ischemiique;ischemique
+1;ischemikque;ischemique
+1;ischemiqe;ischemie ischemique
+1;ischemiqie;ischemique
+1;ischemiqu;ischemique
+1;ischemir;ischemi ischemie
+1;ischemisue;ischemique
+1;ischemiue;ischemie ischemique
+1;ischemques;ischemiques
+1;ischepique;ischemique
+1;ischeumique;ischemique
+1;ischhemique;ischemique
+1;ischimie;ischemie
+1;ischimique;ischemique
+1;ischmie;ischemie
+1;iscjhemique;ischemique
+1;iscvhemique;ischemique
+1;ish2mique;ishemique
+1;isole;isolee
+1;isous;sous
+1;isschemie;ischemie
+1;isschemique;ischemique
+1;issu;issue tissu
+1;isur;sur
+1;isxhemique;ischemique ishemique
+1;itra;atra intra ira
+1;itteratifs;iteratifs
+1;j14;14 c14 t14
+1;j15;115 15 c15
+1;j20;20 220
+1;j21;21
+1;jame;jambe lame rame
+1;jan;an jak pan van
+1;jonctionelle;jonctionnelle
+1;jous;joue joues jours mous sous
+1;juge;jude luge
+1;jugulee;jugule
+1;juguler;jugule
+1;kgm2;gm2
+1;kgs;kg
+1;klebsciella;klebsiella
+1;korsackov;korsakov
+1;korsakof;korsakoff korsakov
+1;labdomen;abdomen
+1;labdominale;abdominale
+1;lachee;lacher lactee
+1;lacoustique;acoustique
+1;lacr;acr lac lcr
+1;ladenome;adenome
+1;laeg;aeg leg
+1;lair;air clair hair lai laid lait
+1;laire;aire claire glaire laine paire
+1;lamanite;amanite
+1;lamikacine;amikacine
+1;lamiodarone;amiodarone
+1;lamoxicilline;amoxicilline
+1;lamputation;amputation
+1;lams;ams lam lam0 lam1 lam2 lam3 lam4 lam5 lam6 lam7 lame sams
+1;lanastomose;anastomose
+1;lance;lange
+1;lanevrysme;anevrysme
+1;languye;langue
+1;lannonce;annonce
+1;lanse;anse danse lange
+1;lapg;apg
+1;laporotomie;laparotomie
+1;lappareil;appareil
+1;lapparition;apparition
+1;lappendice;appendice
+1;lapport;apport rapport
+1;laqueduc;aqueduc
+1;laringe;larynge
+1;laringectomie;laryngectomie
+1;larrivee;arrivee
+1;laryngo;larynge
+1;lassistance;assistance
+1;laterobasal;latero-basal
+1;laterocervicale;latero-cervicale laterocervical
+1;latteinte;atteinte
+1;lattention;attention
+1;latterale;laterale
+1;lavant;avant
+1;lavant-bras;avant-bras
+1;lavc;avc bavc lac
+1;lavoie;lavoir
+1;laxe;axe lame laxa luxe
+1;laymphangite;lymphangite
+1;leate;lente
+1;leau;eau lead peau seau
+1;lecemie;leucemie
+1;lechographie;echographie
+1;lege;leg leger loge luge
+1;lelan;elan
+1;lendocol;endocol
+1;lenfant;enfant
+1;lensemble;ensemble
+1;lenvahissement;envahissement
+1;lepo;epo
+1;lepuration;epuration
+1;lescalier;escalier
+1;lescarre;escarre
+1;lese;leser lyse
+1;lesios;lesion lesions
+1;let;et jet le leg lent lit net
+1;leta;beta lata meta
+1;lete;lente rete tete
+1;letiologie;etiologie
+1;letranger;etranger
+1;leucemime;leucemie leucemise
+1;leucemisee;leucemise
+1;leuceumie;leucemie
+1;leucmie;leucemie
+1;leucoaencephalopathie;leuco-encephalopathie leucoencephalopathie
+1;leucuemie;leucemie
+1;levacuation;evacuation
+1;levenement;evenement
+1;lewis;lewi
+1;lewis-santi;lewis-santy
+1;lexcision;excision
+1;lexerese;exerese
+1;lexposition;exposition
+1;leyomyosarcome;leiomyosarcome
+1;lhemi-larynx;hemi-larynx
+1;lhemichamp;hemichamp
+1;lhemilarynx;hemilarynx
+1;lhemiplegie;hemiplegie
+1;lhepatite;hepatite
+1;libres;fibres libre
+1;lide;aide lid lie liee like line vide
+1;lidm;idm iidm lid
+1;lidt;lid lit
+1;lies;lie liee lien lieu
+1;liliaque;iliaque
+1;limmunodeprime;immunodeprime
+1;limurel;imurel
+1;lincendie;incendie
+1;linduction;induction
+1;linnohep;innohep
+1;linsuline;insuline
+1;liqiide;liquide
+1;liquite;liquide
+1;lirco;irco
+1;lischion;ischion
+1;lise;lie liee like line lisse lyse mise pise
+1;lissue;issue lisse
+1;lisuide;liquide
+1;lithotricie;lithotritie
+1;lliaque;iliaque
+1;llobectomie;lobectomie
+1;lmetastases;metastases
+1;lnhb;nhb
+1;lobair;lobaire
+1;lobjet;objet
+1;lobturateur;obturateur
+1;loca;loc local poca
+1;locclusion;occlusion
+1;lociregionale;locoregionale
+1;lock;kock loc
+1;loclisation;localisation
+1;loco-regionnal;loco-regional
+1;log;leg lig loc loge loi long lsg og
+1;lomboaortique;lombo-aortique
+1;lombosacree;lombo-sacree lombosacrees
+1;lorbite;lobite orbite
+1;lorganisme;organisme
+1;loro;coro lors
+1;lorsakoff;korsakoff
+1;low;loc loi lowe
+1;lsdt;lsd
+1;ltai;lai
+1;ltat;etat lcat
+1;ltmphome;lymphome
+1;lung;long
+1;luranium;uranium
+1;lymhome;lymphome
+1;lympangite;lymphangite
+1;lymphagite;lymphangite
+1;lymphangioleiomymatose;lymphangioleiomyomatose
+1;lymphblastique;lymphoblastique
+1;lymphocitaire;lymphocytaire
+1;lymphoime;lymphoide lymphome
+1;lymphoine;lymphoide
+1;lymphomateuses;lymphomateuse
+1;lymphoproloferatif;lymphoproliferatif
+1;lympphoide;lymphoide
+1;lyphome;lymphome
+1;lythiase;lithiase
+1;m2tastases;metastases
+1;m2tastatique;metastatique
+1;macker;maker
+1;macrocitaire;macrocytaire
+1;macrovasculaire;macro-vasculaire microvasculaire
+1;madadie;maladie
+1;malabsorbtion;malabsorption
+1;maladiez;maladie maladies
+1;maladioe;maladie maladive
+1;malaidie;maladie
+1;malaie;malacie malade maladie malaire malaise
+1;malformatin;malformatif malformation
+1;malhaise;malaise
+1;mallleolaire;malleolaire
+1;malmadie;maladie
+1;malnutition;malnutrition
+1;malnutrtion;malnutrition
+1;mamadie;maladie
+1;mamlpighien;malpighien
+1;maoeuvres;manoeuvres
+1;marcessens;marcescens
+1;marcroadenome;macroadenome
+1;marges;larges marge
+1;masculine;masculin
+1;mase;base case male mare maso masse mate mise mmse
+1;masseive;massive
+1;massifs;massif
+1;masssive;massive
+1;massve;masse massive
+1;mastoiiennes;mastoidiennes
+1;matastatique;metastatique
+1;matis;mais mitis
+1;mbr;mer mr mur pbr
+1;mcno;mono
+1;meastases;metastases
+1;meastatique;metastatique
+1;meatastases;metastases
+1;mebre;membre mere
+1;mebres;membres metres
+1;mecannique;mecanique
+1;mecnique;mecanique
+1;med;hed meb mer mid mmd msd red
+1;mediastinites;mediastinite
+1;mediatinale;mediastinale
+1;meembres;membres
+1;mega-dolichocolon;megadolichocolon
+1;megadolochocolon;megadolichocolon
+1;meingite;meningite
+1;meladie;maladie
+1;melaenas;melaena
+1;melaniome;melanome
+1;melanomme;melanome
+1;melene;melena
+1;melonome;melanome
+1;membress;membres
+1;membrs;membre membres
+1;memorragique;hemorragique
+1;memres;membres metres
+1;menbraneuse;membraneuse
+1;menbre;membre
+1;mendhelson;mendelson
+1;menengee;meningee
+1;menigee;meningee
+1;meningo-radiculite;meningoradiculite
+1;meninigiome;meningiome
+1;meniongite;meningite
+1;merastatique;metastatique
+1;mesanterique;mesenterique
+1;mesencaphalique;mesencephalique
+1;meseterique;mesenterique
+1;mesnterique;mesenterique
+1;mestastase;metastase
+1;met;et jet mat meat meb mer meta mot mst muet net
+1;meta2statique;metastatique
+1;metaastatique;metastatique
+1;metabollique;metabolique
+1;metanbolique;metabolique
+1;metasase;metastase
+1;metasatase;metastase metastatase
+1;metasdtases;metastases
+1;metasstases;metastases
+1;metasstatique;metastatique
+1;metastae;metastase
+1;metastaes;metastases
+1;metastasaes;metastases
+1;metastaseos;metastases
+1;metastaser;metastase metastasee metastases
+1;metastasese;metastasee metastases
+1;metastasie;metastase metastasee
+1;metastass;metastase metastases
+1;metastatases;metastatase
+1;metastate;metastase
+1;metastates;metastases
+1;metastatiqque;metastatique
+1;metastatiquee;metastatique metastatiques
+1;metastatiquer;metastatique metastatiques
+1;metastatisue;metastatique
+1;metastatitque;metastatique
+1;metastatitue;metastatique
+1;metastatque;metastatique
+1;metastsases;metastases metatsases
+1;metastsses;metastases
+1;metasttases;metastases
+1;metastyases;metastases
+1;metatastatique;metastastatique
+1;metatatique;metastatique
+1;metatatiques;metastatiques
+1;metatsase;metatsases
+1;metatstasee;metastasee
+1;metazstases;metastases
+1;mete;mate mere meta mte rete tete
+1;meteastases;metastases
+1;metestase;metastase
+1;metforrmine;metformine
+1;methastatique;metastatique
+1;methicillino;methicilline
+1;methy-s;methi-s
+1;meti-s;methi-s
+1;metis;mitis
+1;metrastases;metastases
+1;metsastases;metastases
+1;metstase;metastase
+1;mettre;meutre
+1;meur;mer mur peur
+1;mezenterique;mesenterique
+1;mezotheliome;mesotheliome
+1;mgl;ggl lgl mal
+1;microangiopatie;microangiopathie
+1;microavc;micro-avc
+1;microinhalations;micro-inhalations
+1;microlithiasique;micro-lithiasique
+1;micronodules;macronodules micro-nodules
+1;midi;mici mid midd
+1;midriase;mydriase
+1;midt;mid midd
+1;mielodysplasique;myelodysplasique
+1;mileu;milieu
+1;miltiples;multiples
+1;minf;inf mine
+1;mini;mici mine mni
+1;mintal;mental
+1;mithochondriopathie;mitochondriopathie
+1;mitralae;mitrale
+1;mityrale;mitrale
+1;mladie;maladie
+1;mlaladie;maladie
+1;mlti-viscerale;multi-viscerale
+1;mmsea;mmse
+1;mmultiviscerale;multiviscerale
+1;mobilisations;mobilisation
+1;mocarde;myocarde
+1;moderees;moderee
+1;modifie;modifiee momifie
+1;moelena;melena
+1;moelles;moelle molles
+1;moet;mont mort mot muet
+1;mol;bol col mal mole mot mou sol vol
+1;morbise;morbide
+1;morganela;morganella
+1;morgani;morganii
+1;morphino;morphine
+1;mortr;mort morte
+1;motirce;motice
+1;moyend;moyen moyens
+1;mpaladie;maladie
+1;mrc;arc irc mac mr mra
+1;msenterique;mesenterique
+1;msse;masse mise mmse
+1;mtastase;metastase
+1;mtocarde;myocarde
+1;mucose;mucosa mycose
+1;mucovicidose;mucoviscidose
+1;mukltiviscerale;multiviscerale
+1;mulit-visceral;muliti-visceral mulitivisceral
+1;muliti;multi
+1;mullti-viscerale;multi-viscerale
+1;mulltiviscerale;multiviscerale
+1;multe;malte multi
+1;multi-forme;multiforme
+1;multi-heteronodulaire;multi-hetero-nodulaire multiheteronodulaire
+1;multi-metastasique;multi-metastatique
+1;multi-systemaitisee;multi-systematisee
+1;multi-transfusee;multi-transfuse multitransfusee
+1;multi-visceralr;multi-visceral multi-viscerale
+1;multi-vuscerale;multi-viscerale
+1;multi6viscerale;multi-viscerale multiviscerale
+1;multicloisone;multicloisonne
+1;multie;multi multipe
+1;multifactarielle;multifactorielle
+1;multifoccale;multifocale
+1;multiimetastatique;multi-metastatique multimetastatique
+1;multiles;multipes multiples
+1;multilingnee;multilignee
+1;multilmetastatique;multi-metastatique multimetastatique
+1;multimestastase;multimetastase
+1;multimetasase;multimetastase
+1;multimetastaique;multimetastatique
+1;multimetastasie;multimetastase
+1;multimetastastique;multimetastatique
+1;multimetastatisque;multimetastatique
+1;multimetastatque;multimetastatique
+1;multio;multi
+1;multioperee;multi-operee multiopere
+1;multiorgans;multiorganes
+1;multipfactorielle;multi-factorielle multifactorielle
+1;multipled;multiple multiples
+1;multitviscerale;multi-viscerale multiviscerale
+1;multivescerale;multiviscerale
+1;multivicerales;multiviscerales
+1;multivioscerale;multiviscerale
+1;multiviscarale;multiviscerale
+1;multiviscereale;multiviscerale
+1;multiviscirale;multiviscerale
+1;multiviscrale;multiviscerale
+1;multiviscrrale;multiviscerale
+1;multivisecerale;multiviscerale
+1;multivisqcerale;multiviscerale
+1;multivuscerale;multiviscerale
+1;multmetastatique;multimetastatique
+1;multrimetastatique;multimetastatique
+1;multuviscerale;multiviscerale
+1;mulyiviscerale;multiviscerale
+1;munti;multi muti
+1;musculo-cutanees;musculo-cutanee
+1;mute;mate mte muti
+1;mutimetastatique;multimetastatique
+1;mutltiviscerale;multiviscerale
+1;muultiples;multiples
+1;mxte;mate mixte mte
+1;mycardiopathie;myocardiopathie
+1;mydelodysplasique;myelodysplasique
+1;myeledysplasie;myelodysplasie
+1;myelloide;myeloide
+1;myeloblastiqiue;myeloblastique
+1;myelodisplasie;myelodysplasie
+1;myelodisplasique;myelodysplasique
+1;myelodysplasiie;myelodysplasie
+1;myelodysplasiques;myelodysplasique
+1;myelomea;myelome
+1;myelomes;myelome
+1;myeloproloiferatif;myeloproliferatif
+1;myenne;moyenne
+1;myeome;myelome myome myxome
+1;myoardique;myocardique
+1;myocard;myocarde
+1;myocardio;myocardie
+1;myocardioppathie;myocardiopathie
+1;myocardiopthie;myocardiopathie
+1;myocardiquue;myocardique
+1;myocardopathie;myocardiopathie
+1;myolodysplasique;myelodysplasique
+1;mypcardique;myocardique
+1;myxo-fibrosarcome;myo-fibrosarcome myxofibrosarcome
+1;n2b;n2 ncb nhb
+1;n2c;n2 ngc npc
+1;napc;apc nlpc npc
+1;natal;nasal natale
+1;national;nationale
+1;nayant;ayant
+1;neatif;negatif
+1;necessitante;necessitant
+1;necrothique;necrotique
+1;neg;aeg beg eeg eg leg ne nee nem neo net nez ng nrg
+1;neolasique;neoplasique
+1;neop;neo
+1;neopasie;neoplasie
+1;neoplaisie;neoplaise neoplasie
+1;neoplame;neoplasme
+1;neoplasdie;neoplasie
+1;neoplasm;neoplasme
+1;neopllasie;neoplasie
+1;neoplsie;neoplasie
+1;neopplasie;neoplasie
+1;neoral;neural
+1;nephrangiosclerose;nephroangiosclerose
+1;nephretomie;nephrectomie
+1;nephropahie;nephropathie
+1;neproangiosclerose;nephroangiosclerose
+1;neroendocrine;neuroendocrine
+1;nest;net test west
+1;nette;dette
+1;neu;feu geu jeu ne nee nem neo net nez nu peu pneu reu
+1;neulologique;neurologique
+1;neuoplasme;neoplasme
+1;neuro-endocrinne;neuro-endocrine
+1;neuro-endocrone;neuro-endocrine
+1;neurocognitive;neuro-cognitive
+1;neurodegenrative;neurodegenerative
+1;neuroedocrine;neuroendocrine
+1;neurolgique;neurologique
+1;neurologiquen;neurologique neurologiques
+1;neuromeningees;neuro-meningees neuromeningee
+1;neuropatie;neuropathie
+1;neutropnenie;neutropenie
+1;nevrisme;anevrisme
+1;nezoplasie;neoplasie
+1;nferieurs;inferieurs
+1;niece;piece
+1;nion;lion non
+1;niv;civ fiv hiv iv nav nid siv
+1;nodul;nodal nodule
+1;nojn;non
+1;normales;anormales normale
+1;norveginne;norvegienne
+1;noscomiale;nosocomiale
+1;nosocmiale;nosocomiale
+1;nososcomiale;nosocomiale
+1;nrenale;renale
+1;nronchopulmonaire;bronchopulmonaire
+1;nsuffisance;insuffisance
+1;ntra;atra intra nta
+1;nuits;puits
+1;nveau;niveau
+1;oami;ami iami omi
+1;obleterante;obliterante
+1;obliteraante;obliterante
+1;obliterantes;obliterante obliterants
+1;obsructive;obstructive
+1;obstructrive;obstructive
+1;obstructuion;obstruction
+1;obstructuve;obstructive
+1;obstrucyive;obstructive
+1;obstrutive;obstructive
+1;occclusion;occlusion
+1;occlueion;occlusion
+1;occlusf;occlus occlusif
+1;occluson;occlusion
+1;oclusif;occlusif
+1;oclusion;occlusion
+1;oedeeme;oedeme
+1;oedem;oedeme
+1;oedemo;oedeme
+1;oeophage;oesophage
+1;oeratoire;operatoire
+1;oesobronchique;oeso-bronchique
+1;oesocardial;oeso-cardial
+1;oesolphagiennes;oesophagiennes
+1;oesopagectomie;oesophagectomie
+1;oesophagiennnes;oesophagiennes
+1;oesophago;oesophage
+1;oesophgienne;oesophagienne
+1;oganes;organes
+1;olidodendrogliome;oligodendrogliome
+1;oligo-aurique;oligo-anurique
+1;ombelical;ombilical
+1;ombillicale;ombilicale
+1;omphalocoele;omphalocele
+1;oncle;ongle
+1;oncologiques;oncologique
+1;onde;ronde sonde
+1;ooclusion;occlusion
+1;ooesophagien;oesophagien
+1;oparable;operable
+1;opeeration;operation
+1;operaoire;operatoire
+1;operaroire;operatoire
+1;operatoie;operatoire
+1;operatoir;operatoire
+1;oprable;operable
+1;orales;orale oralis rales
+1;orchiepididymite;orchi-epididymite
+1;ordemateux;oedemateux
+1;oredeme;oedeme
+1;organ;organe
+1;orgine;organe origine
+1;oridine;origine
+1;origne;origine
+1;oro-pharyngectomie;oropharyngectomie
+1;orohypopharynge;oro-hypopharynge
+1;oronaropathie;coronaropathie
+1;oropharynges;oro-pharynges oropharynge oropharyngee oropharyngees
+1;osclusif;occlusif
+1;oseuses;osseuses
+1;osseeux;osseux ossseux
+1;osseses;osseuses
+1;osseuese;osseuse
+1;osseus;osseuse osseux
+1;ossseuse;osseuse
+1;ossseuses;osseuses
+1;ossueuses;osseuses
+1;ossuse;osseuse
+1;ossuses;osseuses
+1;osteo-aticulaire;osteo-articulaire
+1;osteoclastique;osteoblastique osteoclastiques osteoplastique
+1;osteopotose;osteoporose
+1;osteosybthesee;osteosynthesee
+1;osteosynthes;osteosynthese
+1;osteosynthsese;osteosynthese
+1;osterite;osteite
+1;otomastoidite;oto-mastoidite
+1;oui;lui omi ou ouie
+1;oumon;poumon
+1;ours;cours durs jours
+1;ovrienne;ovarienne
+1;oxa;coxa oia
+1;oxygene-dependant;oxygeno-dependant
+1;oxygenotherape;oxygenotherapie
+1;oxygno-dependante;oxygeno-dependante
+1;pacemaler;pacemaker
+1;pachipleurite;pachypleurite
+1;pachymenigite;pachymeningite
+1;pacmaker;pacemaker
+1;pae;cae paa pac pace pah pal pan par pas pate pde poe pre pse pte
+1;paient;parent patient
+1;pakinson;parkinson
+1;palaliatifs;palliatifs
+1;pallaiatifs;palliatifs
+1;pallatifs;palliatifs
+1;palliatfs;palliatifs
+1;pallilatif;palliatif
+1;pallliatifs;palliatifs
+1;pan-hypopituitarisme;panhypopituitarisme
+1;panccreatite;pancreatite
+1;panceas;pancreas
+1;panceatite;pancreatite
+1;pancolitea;pancolite
+1;pancratique;pancreatique
+1;pancread;pancreas
+1;pancreaite;pancreatite
+1;pancreatire;pancreatite
+1;pancreatitie;pancreatite
+1;pancreatitte;pancreatite
+1;pancreeas;pancreas
+1;pancretatite;pancreatite
+1;pancretique;pancreatique
+1;pancytopenia;pancytopenie
+1;paraaplegie;paraplegie
+1;parafinome;paraffinome
+1;paraneplasique;paraneoplasique
+1;pararectal;para-rectal
+1;pareto-occipitale;parieto-occipitale
+1;pareto-occipitaux;parieto-occipitaux
+1;parieta;parietal
+1;parieto-occiptale;parieto-occipitale
+1;parietotemporal;parieto-temporal
+1;parkinsonn;parkinson
+1;parkionson;parkinson
+1;parkison;parkinson
+1;parkisonien;parkinsonien
+1;parm;par pavm sarm
+1;parncreatique;pancreatique
+1;paroxsystique;paroxystique
+1;paroxyqtique;paroxystique
+1;paroxysttique;paroxystique
+1;parpaplegie;paraplegie
+1;parr;barr par
+1;parterite;arterite
+1;partiele;partiel partielle
+1;partient;patient
+1;partir;partie
+1;pat;at mat paa pac pah pal pan par pas pate pdt pit plat plt pot pt ptt rat
+1;pathiologie;pathologie
+1;pathogene;pathogenes
+1;patholgie;pathologie
+1;patienter;patiente
+1;patinte;patente patiente
+1;patologie;pathologie
+1;patrkinsonien;parkinsonien
+1;patyiente;patiente
+1;paucio-relationnel;pauci-relationnel
+1;paucirelationel;paucirelationnel
+1;pbco;bco hbco
+1;peace-maker;pace-maker
+1;peeforation;perforation
+1;peeitoneales;peritoneales
+1;peitites;petites
+1;peitoneal;peritoneal
+1;peitoneale;peritoneale
+1;peluro;pelure
+1;pelviene;pelvien pelvienne pelviens
+1;pendent;pendant
+1;peni-s;penis
+1;penphygoide;pemphygoide
+1;peretoneale;peritoneale
+1;perf;cerf nerf per pere
+1;perforre;perfore perforee
+1;perfortation;perforation
+1;perfrochanterienne;pertrochanterienne
+1;perfusopericarde;perfuso-pericarde
+1;perianastomotique;peri-anastomotique
+1;periaortique;peri-aortique
+1;pericadique;pericardique
+1;periioperatoire;peri-operatoire perioperatoire
+1;perilunguale;perilinguale
+1;perintonite;peritonite
+1;peritionite;peritonite
+1;peritobeales;peritoneales
+1;peritoineale;peritoneale
+1;peritoinite;peritonite
+1;peritomite;peritonite
+1;peritonealle;peritoneale
+1;peritonele;peritoneale
+1;peritoneqle;peritoneale
+1;peritonial;peritoneal
+1;peritoniale;peritoneale
+1;peritonoite;peritonite
+1;perkinson;parkinson
+1;permanenete;permanente
+1;perofonde;profonde
+1;perotonite;peritonite
+1;persdistant;persistant
+1;personalite;personnalite
+1;pertitoneale;peritoneale
+1;pertoneal;peritoneal
+1;pertoneale;peritoneale
+1;perturbees;perturbee
+1;petietes;petites
+1;pettites;petites
+1;peurale;neurale pleurale
+1;peut;peu peur
+1;pfalciparum;falciparum
+1;pharyngolarunge;pharyngolarynge
+1;phebite;phlebite
+1;phi;ph phc phs pli pti
+1;piblique;publique
+1;piccline;picc-line
+1;pietons;pieton
+1;pilmonaires;pulmonaires
+1;piquere;piqure
+1;pirifoeme;piriforme
+1;piriform;piriforme
+1;pkhr;pkh pkr
+1;placee;glacee place
+1;plae;place plage plaie plan plat
+1;plain;pain plaie plan plein
+1;plainte;plante
+1;plais;palais plaie plaies plans plis
+1;plamocytaire;plasmocytaire
+1;planher;plancher
+1;plasie;aplasie plaie plastie
+1;plasmo-blastique;plasmoblastique
+1;pleruresie;pleuresie
+1;pleuesie;pleuresie
+1;pleurax;pleural pleuraux
+1;pleuresi;pleuresie
+1;pleureux;pleuraux
+1;pleuropneumoparhie;pleuropneumopathie
+1;pleuropneumopathies;pleuro-pneumopathies pleuropneumopathie
+1;pleutal;pleural
+1;plliatifs;palliatifs
+1;plmonaire;plumonaire pulmonaire
+1;plolyvasculaire;polyvasculaire
+1;plumonaires;plumonaire
+1;plurimetastasee;plurimetastase plurimetastases
+1;pluriorganique;pluri-organique
+1;pluripathologies;pluripathologie
+1;plvre;plevre
+1;plyvasculaire;polyvasculaire
+1;pmeumopathie;pneumopathie
+1;pmulmonaire;pulmonaire
+1;pn1;n1 pna pno pnp
+1;pneumcystose;pneumocystose
+1;pneummopathies;pneumopathies
+1;pneumoccoque;pneumocoque
+1;pneumococoque;pneumococique
+1;pneumococque;pneumococique pneumocoque
+1;pneumocoquue;pneumocoque
+1;pneumocyste;pneumocystes
+1;pneumocystic;pneumocystis
+1;pneumocystise;pneumocystis pneumocystose
+1;pneumocytose;pneumocystose
+1;pneumoie;pneumonie
+1;pneumolpathie;pneumopathie
+1;pneumomectomie;pneumonectomie
+1;pneumoncephalie;pneumencephalie pneumocephalie pneumoencephalie
+1;pneumopahthie;pneumopathie
+1;pneumoparthie;pneumopathie
+1;pneumopathi;pneumopathie
+1;pneumopathioe;pneumopathie
+1;pneumopathis;pneumopathie pneumopathies
+1;pneumopathjie;pneumopathie
+1;pneumopathoe;pneumopathie
+1;pneumopathye;pneumopathie
+1;pneumopatjie;pneumopathie
+1;pneumopatrhie;pneumopathie
+1;pneumoptathie;pneumopathie
+1;pneumothrax;pneumothorax
+1;pneumotpathie;pneumopathie
+1;pneumppathie;pneumopathie
+1;pneuonie;pneumonie
+1;pntage;pontage
+1;pnumonie;pneumonie
+1;pnumopathie;pneumopathie
+1;poet;pnet poe pont port post pot pott
+1;poliarthrite;polyarthrite
+1;poltviscerale;polyviscerale
+1;polumetastase;polymetastase
+1;poly-arteriel;polyarteriel
+1;poly-metastasee;polymetastasee
+1;poly-traumatisme;polytraumatisme
+1;polyarhrite;polyarthrite
+1;polyarteripathie;polyarteriopathie
+1;polyartheriopathie;polyarteriopathie
+1;polyarthite;polyarthrite
+1;polyarthryte;polyarthrite
+1;polyartrite;polyarterite polyarthrite
+1;polyfracturee;polyfracture polyfractures
+1;polyiscerale;polyviscerale
+1;polykytose;polykystose
+1;polymetastas2;polymetastase
+1;polymetastatiqueos;polymetastatiques
+1;polymetatstase;polymetastase
+1;polytaumatise;polytraumatise
+1;polytaumatisme;polytraumatisme
+1;polytramatisme;polytraumatisme
+1;polyviscerazle;polyviscerale
+1;polyvisverale;polyviscerale
+1;polyvscerale;polyviscerale
+1;pomons;poumons
+1;ponage;pontage
+1;poncytopenie;pancytopenie
+1;pontagr;pontage
+1;pontge;pontage ponte pontee
+1;popliteo;poplite poplitee poplites
+1;porto;port porte
+1;pos-op;post-op postop
+1;pos-operatoire;post-operatoire postoperatoire
+1;pos-tabagique;post-tabagique
+1;posant;pesant
+1;posee;pose poste rosee
+1;poserieure;posterieure
+1;post-chimioterapie;post-chimiotherapie
+1;post-chutes;post-chute
+1;post-cure;post-cpre
+1;post-resuscitation;post-ressuscitation
+1;postanoxiques;post-anoxiques
+1;postb;post poste
+1;postcapillaire;post-capillaire
+1;postembolique;post-embolique
+1;postethylique;post-ethylique
+1;posthepatite;post-hepatite
+1;postoperatoir;postoperatoire
+1;postopratoire;postoperatoire
+1;pot-anoxique;post-anoxique
+1;potage;pontage portage
+1;pou;cou mou ou peu poe pot pour poux
+1;poulmonaire;pulmonaire
+1;poumin;poumon
+1;pounmon;poumon
+1;pouvoir;mouvoir
+1;ppatient;patient
+1;ppematurite;prematurite
+1;pplyarthrite;polyarthrite
+1;ppolyviscerale;polyviscerale
+1;pprofond;profond
+1;pqychose;psychose
+1;precaise;precaire precise
+1;precice;precise precoce
+1;precis;precise
+1;preoperatoire;pre-operatoire
+1;preritoneale;peritoneale
+1;presacree;pre-sacree presacre
+1;prevu;prevue
+1;prevues;prevue
+1;primiif;primitif
+1;primitiove;primitive
+1;primoinfection;primo-infection
+1;printzmetal;prinzmetal
+1;priori;priorix
+1;pririforme;piriforme
+1;prisee;brisee prise prises privee
+1;pristate;prostate
+1;pritoneale;peritoneale
+1;prkinsonien;parkinsonien
+1;pro;iro pmo pno pr pre prn
+1;procesus;processus
+1;professionelle;professionnelle
+1;professionnnelle;professionnelle
+1;progresion;progression
+1;progressdive;progressive
+1;progressives;progressive
+1;progressve;progressive
+1;progrssion;progression
+1;projet;projete
+1;prolappsus;prolapsus
+1;prolong2;prolonge
+1;prolong2e;prolonge prolongee
+1;prolongees;prolongee
+1;prosatatique;prostatique
+1;prosatique;prostatique
+1;prostato;prostate
+1;prostato-cystite;prostatocystite
+1;prostatte;prostate prostatite
+1;protate;prostate
+1;protatique;prostatique
+1;proteinoenergetique;proteino-energetique
+1;proteo;protee
+1;prothrombotique;prethrombotique pro-thrombotique
+1;prouve;prouvee trouve
+1;prstatectomie;prostatectomie
+1;prstatique;prostatique
+1;prteique;proteique
+1;prthese;prothese
+1;prties;parties
+1;pseudogrippal;pseudo-grippal
+1;pseudoplyarthrite;pseudopolyarthrite
+1;psudo;pseudo
+1;psudo-membraneuse;pseudo-membraneuse
+1;psudomonas;pseudomonas
+1;psychatrique;psychiatrique
+1;psychocomportementaux;psycho-comportementaux
+1;psyochose;psychose
+1;pt3;at3 p53 pt pte ptg pth pti ptt ptv t3
+1;ptgdt;ptgd
+1;ptts;potts ptt
+1;public;publics
+1;puklmonaire;pulmonaire
+1;pullmonaire;pulmonaire
+1;pulmaonaire;pulmonaire
+1;pulmionaires;pulmonaires
+1;pulmmonaires;pulmonaires
+1;pulmnonaire;pulmonaire
+1;pulmoaire;pulmaire pulmonaire
+1;pulmomnaire;pulmonaire
+1;pulmonaie;pulmonaire pulmonare
+1;pulmonaiore;pulmonaire
+1;pulmonairesn;pulmonaires
+1;pulmonairess;pulmonaires
+1;pulmoniaire;pulmonaire pulmoniare
+1;pulmonire;pulmonaire pulmonare pulmoniare
+1;pulmopnaire;pulmonaire
+1;pulmunaire;pulmonaire
+1;pultiple;multiple
+1;pulumonaire;plumonaire pulmonaire
+1;pure;cure pere pre
+1;purpuras;purpura
+1;purulante;purulente
+1;pycocyanique;pyocyanique
+1;pyelo-calicielles;pyelo-calicielle pyelocalicielles
+1;pyelo-nephrite;pyelonephrite
+1;pyelonaphrite;pyelonephrite
+1;pyelonephrirte;pyelonephrite
+1;pyelonphrite;pyelonephrite
+1;pylelonephrite;pyelonephrite
+1;pylonephrite;pyelonephrite pyonephrite
+1;pyocanique;pyocyanique
+1;pyocyonique;pyocyanique
+1;qsseux;osseux
+1;quatriemme;quatrieme
+1;rabagisme;tabagisme
+1;rabdomyosarcome;rhabdomyosarcome
+1;racidienne;rachidienne
+1;radiofreauence;radiofrequence
+1;radiotherampie;radiotherapie
+1;radiotherappie;radiotherapie
+1;raisons;raison
+1;rcancer;cancer
+1;rchu;rch rciu
+1;rde;de pde
+1;rdissociation;dissociation
+1;reanaux;renaux
+1;rebnale;renale
+1;recationnel;relationnel
+1;reccklinghausen;recklinghausen
+1;recdive;recidive
+1;reception;deception
+1;recherchee;recherche recherches
+1;recidivantre;recidivante
+1;recidivee;recidive recidives
+1;recidivente;recidivante
+1;recidiventes;recidivantes
+1;recidivie;recidive
+1;recidvante;recidivante
+1;recieive;recidive
+1;recnente;recente
+1;recours;decours
+1;recrorragies;rectorragies
+1;recto-sigmodien;recto-sigmoidien
+1;rectorragiesd;rectorragies
+1;rectorrhagies;rectorragies
+1;rectosigmoidectomie;recto-sigmoidectomie
+1;rectrictive;restrictive
+1;rectsigmoidien;rectosigmoidien
+1;redaction;reaction reduction
+1;reeelle;rebelle reelle
+1;reetablissement;retablissement
+1;refractaite;refractaire
+1;refractaure;refractaire
+1;refractire;refractaire
+1;refractoire;refractaire
+1;refractraire;refractaire
+1;refrractaire;refractaire
+1;refuses;refuse refusee
+1;reglee;regles
+1;rejetees;repetees
+1;relations;relation
+1;relmplacement;remplacement
+1;remaiement;remaniement
+1;remaniemment;remaniement
+1;remaniment;remaniement
+1;reminale;seminale
+1;rempacement;remplacement
+1;remplacelent;remplacement
+1;remplacemant;remplacement
+1;remplacemnt;remplacement
+1;rempolacement;remplacement
+1;ren;en red rein rer reu
+1;rena;renal
+1;renake;renale
+1;renala;renal renale
+1;renamle;renale
+1;repetee;repete repetees repetes
+1;repetiion;repetition
+1;repettion;repetition
+1;repi;repli
+1;repplacement;remplacement
+1;requeran;requerant
+1;requerrant;requerant
+1;resction;reaction resection
+1;resetion;resection
+1;resistances;resistance resistantes
+1;resistans;resistant resistants
+1;resitante;resistante
+1;respiiratoire;respiratoire
+1;respioratoire;respiratoire
+1;respiraroire;respiratoire
+1;respirat0oire;respiratoire
+1;respiratire;respiratoire
+1;respiratoiore;respiratoire
+1;respiratoirei;respiratoire respiratoires
+1;respiratooire;respiratoire
+1;respiratopire;respiratoire
+1;respirattoire;respiratoire
+1;respireatoire;respiratoire
+1;respirqtoire;respiratoire
+1;respitratoire;respiratoire
+1;resporatoire;respiratoire
+1;respsiratoire;respiratoire
+1;resptiratoire;respiratoire
+1;respuiratoire;respiratoire
+1;ressucitation;ressuscitation
+1;ressucite;ressuscite
+1;reste;geste rete
+1;restistant;resistant
+1;restrective;restrictive
+1;restricitif;restrictif
+1;resultat;resultats
+1;retentionel;retentionnel
+1;retracissement;retrecissement
+1;retractaire;refractaire
+1;retransplantation;detransplantation
+1;retrecisseent;retrecissement
+1;retrecisssement;retrecissement
+1;retricissement;retrecissement
+1;retrictive;restrictive
+1;retro6peritoneal;retro-peritoneal retroperitoneal
+1;retromollaire;retromolaire
+1;retroperitoire;retroperitoine
+1;reuperation;recuperation
+1;reynaud;raynaud
+1;rhabdoyolyse;rhabdomyolyse
+1;rhaboide;rhabdoide
+1;rheumatoide;rhumatoide
+1;rhuamatoide;rhumatoide
+1;rhumathoide;rhumatoide
+1;rhumatide;rhumatoide
+1;rhumatoire;rhumatoide
+1;rhumtoide;rhumatoide
+1;rhythmique;rythmique
+1;richarson;richardson
+1;richer;richter rocher
+1;rien;bien lien
+1;rispiratoire;respiratoire
+1;rlobectomie;lobectomie
+1;rmp;mp rcp rm
+1;rontale;frontale
+1;ropture;rupture
+1;rose2;rose rosea rosee
+1;rpde;pde
+1;rtct;rvct
+1;ruprture;rupture
+1;ruptire;rupture
+1;ruptune;rupture
+1;rupturte;rupture
+1;rvacuation;evacuation
+1;ryhthmique;rythmique
+1;rythma;rythme
+1;rythmen;rythme rythmes
+1;rythmicque;rythmique
+1;rytjme;rythme
+1;s2quelle;sequelle
+1;saccre;sacre
+1;sacr2;sacre
+1;sacr2e;sacre sacree
+1;sai;dai lai sa sac sad sain sam sap sii ski sri svi vsai
+1;saigement;saignement
+1;saignemenr;saignement
+1;sale;cale gale male sable salle salve
+1;salmonelles;salmonelle
+1;san;an pan sa sac sad sain sam sang sans sap scn sn son van
+1;saphylocoque;staphylocoque
+1;sartan;sartans
+1;sascite;ascite
+1;scepticemie;septicemie
+1;scerosante;sclerosante sterosante
+1;schizophenie;schizophrenie
+1;sclerodermis;sclerodermia sclerodermie
+1;scleros;sclerose
+1;sclrodermie;sclerodermie
+1;scorticale;corticale
+1;sdm;dm idm sam scm sdf sdms sdmv ssm tdm
+1;seauelles;sequelles sexuelles
+1;secodaire;secondaire
+1;seconde;second
+1;secvere;severe
+1;semaines2;semaines
+1;seondaire;secondaire
+1;seondaires;secondaires
+1;sepatique;hepatique septique spatique
+1;sepicemie;septicemie
+1;sepidermidis;epidermidis
+1;seprique;septique serique
+1;sepsi;sepsis
+1;septicelie;septicemie
+1;septicemiie;septicemie
+1;septicemis;septicemie septicemies
+1;septicemnie;septicemie
+1;septiocemie;septicemie
+1;septiquea;septique septiques
+1;seqelle;sequelle
+1;sequeeles;sequelles
+1;sequelllaire;sequellaire
+1;sere;1ere mere pere serre sevre shere
+1;seroconversio;seroconversion
+1;sesere;severe
+1;sestique;septique
+1;seticemie;septicemie
+1;sevee;levee severe sevre sevree
+1;sevres;levres serres severes sevre sevree
+1;sgmoide;sigmoide
+1;shy;shu shv
+1;sigmoidie;sigmoide sigmoidien sigmoidite
+1;sigmoidienn;sigmoidien sigmoidienne sigmoidiens
+1;sigmoido;sigmoide
+1;sill;silo still
+1;sinfection;infection
+1;sjoegren;sjogren
+1;sjrogren;sjogren
+1;slenectomie;splenectomie
+1;slerose;sclerose
+1;soh;oh sch sol son sth
+1;soisns;soins
+1;soit;boit coit doit shit soif toit
+1;soldee;sodee
+1;solon;colon
+1;someil;soleil sommeil
+1;sommnolence;somnolence
+1;soous;sous
+1;sou;cou mou ou sfu shu sol son sous
+1;sou-falcoriel;sous-falcoriel
+1;sour-muet;sourd-muet
+1;sousarachnoidienne;sous-arachnoidienne
+1;sousclaviculaires;sous-claviculaires
+1;souscorticale;sous-corticale
+1;sousduraux;sous-duraux
+1;sousrenale;sous-renale
+1;spaciale;spatiale
+1;speptique;peptique septique
+1;spg;apg fpg sng spa spe spp
+1;sphncterotomie;sphincterotomie
+1;spinocellulaie;spinocellulaire
+1;spinocelullaire;spino-celullaire
+1;splenopancreatectomie;sphenopancreatectomie spleno-pancreatectomie
+1;splenorenal;spleno-renal
+1;spondylodisctite;spondylodiscite
+1;spongiformes;spongiforme
+1;spontabne;spontane
+1;spontannee;spontanee
+1;sppontane;spontane
+1;spticemie;septicemie
+1;ssm2;sam2 ssm
+1;sstade;stade
+1;stace;staca stade stase state
+1;stad;sad stade suad
+1;stades;stade
+1;staphiloccocus;staphyloccocus
+1;staphilocoque;staphylocoque
+1;staphyclocoque;staphylocoque
+1;staphylococque;staphylococique staphylococoque staphylocoque
+1;staplylocoque;staphylocoque
+1;stapphylocoque;staphylocoque
+1;status;statut
+1;stde;sode stade
+1;stelle;selle
+1;steno;stent
+1;stercorrale;stercorale
+1;stoke;stope
+1;streptococque;streptococique streptocoque
+1;strepyocoque;streptocoque
+1;stres;stress stries tres
+1;sub-occlusiojn;sub-occlusion
+1;sub-occusif;sub-occlusif
+1;suboclusif;subocclusif
+1;suces;suies
+1;sudosage;surdosage
+1;suffocante;suffocant
+1;suffrance;souffrance
+1;sufocant;suffocant
+1;suire;sucre suie suite
+1;suit;shit subit suie suite
+1;suitea;suite suites
+1;sundrome;syndrome
+1;supecte;suspecte
+1;superficille;superficielle
+1;supracoeliaque;supra-coeliaque
+1;supre-ventriculaire;supra-ventriculaire
+1;sur-renalienne;surrenalienne
+1;surdoage;surdosage
+1;surdoses;surdose
+1;surdsage;surdosage
+1;sure;cure sucre suie sur surf usure
+1;surenalien;surrenalien
+1;surfinfection;surinfection
+1;surifection;surinfection
+1;surinection;surinfection
+1;surinfeciton;surinfecton
+1;surinfectio;surinfection
+1;surnfection;surinfection
+1;surrennalienne;surrenalienne
+1;suspectees;suspectes
+1;suspision;suspicion
+1;suspition;suspicion
+1;suspubienne;sus-pubienne
+1;suvi;suivi svi
+1;syade;stade
+1;sygmoide;sigmoide
+1;syhdrome;syndrome
+1;sylien;sylvien
+1;sylven;sylvien
+1;sylvian;sylvien
+1;sylvie;sylvien
+1;sylvjen;sylvien
+1;symdrome;syndrome
+1;symphisaire;symphysaire
+1;sympomatiques;symptomatiques
+1;syn;scn sn son
+1;syndroma;syndrome
+1;syndromme;syndrome
+1;syndrorme;syndorme syndrome
+1;syndrrome;syndrome
+1;synovio;synovie
+1;syphillis;syphilis
+1;syringomelie;syringomyelie
+1;t2a;t2 ta tca tea tsa
+1;t2g3;t2n3
+1;t3n2b;t3n2
+1;t3nm0;t3n0
+1;t4n2c;t4n2
+1;t4nm;t4n2 t4n3
+1;t4t5;t4-t5
+1;tababgique;tabagique
+1;tabagisle;tabagisme
+1;tabagism;tabagisme
+1;tabgique;tabagique
+1;tablac;tabac
+1;tables;tabes table
+1;tacharythmie;tachyarythmie
+1;tachcardie;tachycardie
+1;tahyarythmie;tachyarythmie
+1;talonieres;talonnieres
+1;taloniers;talonniers
+1;tante;sante tarte tente
+1;tarminal;terminal
+1;taumatisme;traumatisme
+1;tay;ta tac tag tap tar tav
+1;tbl;gbl tbc
+1;tble;ble table tole
+1;teminal;seminal terminal
+1;temorale;femorale temporale tumorale
+1;temporofrontal;temporo-frontal
+1;temporomandibulaire;temporo-mandibulaire
+1;tent;bent dent kent lent stent tente test tnt
+1;tenter;tente
+1;tepetition;repetition
+1;terain;terrain train
+1;tereminale;terminale
+1;terminaler;terminale
+1;terminalke;terminale
+1;termionale;terminale
+1;termminale;terminale
+1;termnale;terminale
+1;termunale;terminale
+1;terninal;terminal
+1;terrminal;terminal
+1;terrrain;terrain
+1;tete-col;tete-cou
+1;tfonctionnelle;fonctionnelle
+1;tfrombopenie;thrombopenie
+1;therapeitique;therapeutique
+1;therapeuique;therapeutique
+1;therapeuthique;therapeutique
+1;therapeutrique;therapeutique
+1;therpeutique;therapeutique
+1;thombopenie;thrombopenie
+1;thombus;thrombus
+1;thoracoabdominale;thoraco-abdominale thoracoabdominal
+1;throbose;thrombose
+1;thromboss;thrombose thromboses
+1;thromocytemie;thrombocytemie
+1;thromopenie;thrombopenie
+1;thrompbose;thrombose
+1;thymaus;thymus
+1;thyrodite;thyroidite
+1;thyroidiene;thyroidien thyroidienne thyroidiens
+1;thyroidiite;thyroidite
+1;tibiotarsienne;tibio-tarsienne
+1;tier;ter tiers tir
+1;tion;lion
+1;toxicie;toxicite
+1;toxicoseptique;toxico-septique
+1;trabnsplantation;transplantation
+1;tracheostome;tracheostomie
+1;tracheotomisee;tracheotomise
+1;trainant;trainante
+1;trait;train traite
+1;traiteee;traitee
+1;traitemen;traitement
+1;traiter;traite traitee
+1;traites;traite traitee
+1;tramatisme;traumatisme
+1;tramatismes;traumatismes
+1;trancheotomie;tracheotomie
+1;tranplantation;transplantation
+1;trans-tibiale;transtibiale
+1;transaortique;trans-aortique
+1;transcutanne;transcutane transcutanee
+1;transfemoral;transfemorale
+1;transfusee;transfuse
+1;transfusionnels;transfusionnel
+1;transmetatartienne;transmetatarsienne
+1;transormation;transformation
+1;transplantations;transplantation
+1;traochanter;trochanter
+1;tratee;ratee traitee
+1;traulma;trauma
+1;traum;tram trauma
+1;traumastisme;traumatisme
+1;traumatimsme;traumatisme
+1;trauyma;trauma
+1;trble;table
+1;tre;atre pre tce tire tne tr tres tue tye
+1;trees;tres
+1;trerminal;terminal
+1;tress;dress stress tres
+1;trhrombose;thrombose
+1;tri-tronculaire;tritronculaire
+1;triate;triatec
+1;tric;cric
+1;trichocporon;trichosporon
+1;tritronculaie;tritronculaire
+1;tritronculairse;tritronculaire
+1;trminale;terminale
+1;troc;toc tronc trop trou
+1;trochanterinne;trochanterienne
+1;trohbles;troubles
+1;troibles;troubles
+1;trombocytemie;thrombocytemie
+1;trombolyse;thrombolyse
+1;trophiquez;trophique trophiques
+1;troponines;troponine
+1;troube;trouble trouve
+1;troublmes;troubles
+1;troubres;troubles
+1;trpubles;troubles
+1;trs;irs qrs ths tirs tr tres trsv ts tvs vrs
+1;trtronculaires;tritronculaires
+1;trts;tres
+1;tsao;tsa
+1;tterminale;terminale
+1;tuameur;tumeur
+1;tuboovarien;tubo-ovarien
+1;tubullaire;tubulaire
+1;tubullo-papillaire;tubulo-papillaire
+1;tuemeur;tumeur
+1;tulmeur;tumeur
+1;tumaur;tumeur
+1;tumer;tumeur tumor
+1;tumeurt;tumeur tumeurs
+1;tummeur;tumeur
+1;tupe;tube tue type
+1;txn3;t2n3 t3n3 t4n3
+1;typa;type
+1;typee;type type1
+1;ucere;ulcere
+1;uine;aine kine line mine sine une urine usine
+1;ulc7re;ulcere
+1;ulcerere;ulceree
+1;uleale;ileale
+1;ulgere;ulcere
+1;umeur;fumeur humeur tumeur
+1;unterus;uterus
+1;unv;une
+1;uothelial;urothelial
+1;uretersostomie;ureterostomie
+1;urethelial;urothelial
+1;uretheliales;urotheliales
+1;uretro-hydronephrose;uretero-hydronephrose
+1;urinai;urinae
+1;urinairer;urinaire urinaires
+1;urinare;urinae urinaire
+1;uriothelial;urothelial
+1;urnaire;urinaire
+1;urorectale;uro-rectale
+1;urotelial;urothelial
+1;urotheliat;urothelial
+1;urthelial;urothelial
+1;urthro-prostatique;urethro-prostatique
+1;uterovaginal;utero-vaginal
+1;uva;eva iva
+1;v2sicale;vesicale
+1;vacsculaire;vasculaire
+1;vagual;vagal
+1;vaies;baies voies
+1;valecule;vallecule
+1;valte;malte valve
+1;valv;valve
+1;valva;valga valve
+1;valvaulaire;valvulaire
+1;valvulalire;valvulaire
+1;valvulaure;valvulaire
+1;valvulkaire;valvulaire
+1;vantriculaire;ventriculaire
+1;variables;variable
+1;variqueuex;variqueux
+1;vascukaire;vasculaire
+1;vasculaie;vasculaire
+1;vasculairte;vasculaire vasculairite
+1;vasculaitre;vasculaire
+1;vasculodegenerative;vasculo-degenerative
+1;vaso;baso maso
+1;vasoactives;vaso-actives
+1;vaspospasme;vasospasme
+1;vaszculaire;vasculaire
+1;vaxculaire;vasculaire
+1;vcoronarienne;coronarienne
+1;vec;avec cec ec iec pec sec vac vc vhc vpc vvc
+1;veillie;vieillie
+1;veineus;veines veineuse veineux
+1;veino-arteriellle;veino-arterielle
+1;veissie;vessie
+1;venilatoire;ventilatoire
+1;venricule;ventricule
+1;vent;bent dent kent lent
+1;venticule;ventricule
+1;ventilatiopn;ventilation
+1;ventiltion;ventilation
+1;ventrculaire;venticulaire ventriculaire
+1;ventriculare;ventriculaire
+1;ventriulaire;ventriculaire
+1;verbal;verbale
+1;vermiens;vermien
+1;verres;serres verre
+1;vertabrales;vertebrales
+1;vertebrakles;vertebrales
+1;vertebromedullaire;vertebro-medullaire
+1;vescie;vessie
+1;vesico-vaginales;vesico-vaginale
+1;vesicocolique;vesico-colique
+1;vesicodigestive;vesico-digestive
+1;vesicosigmoidienne;vesico-sigmoidienne
+1;vessuie;vessie
+1;vetebrales;vertebrales
+1;vetriculaire;ventriculaire
+1;videocapsule;video-capsule
+1;vielli;vieilli viellie
+1;vigilances;vigilance
+1;vigilence;vigilance
+1;vioie;voie
+1;viseral;visceral
+1;viserale;viscerale
+1;viuscerale;viscerale
+1;vivante;vivant
+1;volan;volant
+1;vollet;collet mollet volet
+1;volumineuses;volumineuse
+1;volumlineux;volumineux
+1;voluntaire;volontaire
+1;vomissementqs;vomissements
+1;vomumineux;volumineux
+1;vouloir;couloir
+1;vsculaire;vasculaire
+1;vvdi;vddi
+1;vzentriculaire;ventriculaire
+1;waldenstom;waldenstrom
+1;xacfa;acfa bacfa tacfa
+1;xie;lie vie xi xii
+1;xterne;externe
+1;xviscerale;viscerale
+1;yndrome;syndrome
+1;yronc;tronc
+1;ythme;rythme
+1;zosterieennes;zosteriennes

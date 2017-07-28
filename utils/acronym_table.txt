@@ -1,0 +1,1179 @@
+5-hiaa	acide 5-hydroxyindolacétique
+5-ht	5-hydroxytryptamine 
+5-ht	sérotonine
+a1at	alpha-1-antitrypsine
+a1at	a1-antitrypsine
+aa	aorte ascendante
+aa	affection actuelle
+aa	acide aminé
+aa	antiarthrosique
+aaa	anévrisme de l’aorte abdominale
+aab	abdomen à blanc
+aac	allergies alimentaires croisées
+aag	asthme aigu grave
+aah	allocation aux adultes handicapés
+aam	anticorps anti-mitochondries
+aan	anticorps anti-nucléaire
+aap	antiagrégant plaquettaire
+aar	anti-arythmique
+aat	alpha-1-antitrypsine
+abpa	aspergillose broncho-pulmonaire allergique
+ac	arrêt cardiaque
+ac	avant le repas (pré-prandial)
+ac	anticoagulé
+ac	anticorps 
+acca	ancien chef de clinique-assistant
+acd	acidocétose diabétique
+acfa	arythmie complète par fibrillation auriculaire
+ace	antigène carcino-embryonnaire
+acg	autocontrôle de la glycémie
+acm	artère cérébrale moyenne
+acomi	artériopathie chronique oblitérante des membres inférieurs
+acr	arrêt cardio-respiratoire
+acsos	agressions cérébrales secondaires d’origine systémique
+acth	adrénocorticotropine 
+actp	angioplastie coronarienne transluminale percutanée
+ad	jusqu'à
+ad	auricola dexter
+ad	oreillette droite
+ad	atrium droit
+adh	hormone antidiurétique
+adk	adénocarcinome
+adn	acide désoxyribonucléique
+ado	anti-diabétiques oraux
+adp	adénopathie
+adp	adénosine diphosphate
+adt	accident du travail
+advc	accident de la vie courante
+aec	altération de l’état de conscience
+aeg	altération de l’état général
+aeeh	l'allocation d'éducation de l'enfant handicapé 
+aep	angine érythématopultacée
+aes	accident d’exposition au sang 
+aes	auto-examen du sein
+af	antécédent familial
+afp	alpha-foetoprotéine
+ag	acide gras
+ag	anesthésie générale
+ag	antigène
+agt	amnésie globale transitoire
+ahai	anémie hémolytique auto-immune
+ai	angor instable
+ai	auto-immun
+aihp	ancien interne des hôpitaux de paris
+ains	anti-inflammatoires non-stéroïdiens
+ait	accident ischémique transitoire
+ak	akinésie
+alat ou alt	alanine aminotransférase
+ald	adrénoleucodystrophie
+ald	affection de longue durée
+alr	anesthésie loco-régionale
+ame	aide médicale de l’état
+ami	artère mésentérique inférieure
+amir	anomalie micro-vasculaire intra-rétinienne
+amm	autorisation de mise sur le marché
+amo	ablation du matériel d’ostéosynthèse
+amp	adénosine monophosphate 
+amp	aide médicale à la procréation
+amp.	ampoule
+ampc	amp cyclique
+ams	aire motrice supplémentaire
+ams	artère mésentérique supérieure
+anca	anticorps anti-cytoplasme des polynucléaires neutrophiles
+aomi	artériopathie oblitérante des membres inférieurs
+ap	artère pulmonaire
+apcn	aspergillose pulmonaire chronique nécrosante
+apgar	apparence, pouls, grimace, activité, respiration
+api	aspergillose pulmonaire invasive
+app	appendicectomie
+app	appendicite
+apsi	atrésie pulmonaire à septum intact
+apso	atrésie pulmonaire à septum ouvert
+apud	groupe de cellules captant et décarboxylant des précurseurs d’amines
+ar	autosomique récessif
+ara2	antagoniste des récepteur de l’angiotensine ii
+arh	agence régionale d’hospitalisation
+arm	angio-irm
+arn	acide ribonucléique
+arnm	arn messager
+as	aide-soignant
+as	(auricula sinister) oreillette gauche, atrium gauche
+asa	american society of anesthesiologists pour la classification du risque opératoire
+asat	aspartate aminotransférase
+asc	aire sous la courbe
+ash	agent des services hospitaliers
+asia	anévrisme du septum inter-auriculaire; 
+asia	score asia
+aslo	antistreptolysine o
+asmr	amélioration du service médical rendu
+asp	abdomen sans préparation
+asp	avortement spontané précoce
+ast	aspartate aminotransférase
+at	arrêt de travail
+at1	angiotensine i
+at2	angiotensine ii
+atc	angioplastie trans-coronarienne
+atcd	antécédents
+atl	angioplastie transluminale
+atp	adénosine triphosphate
+ats	antithyroïdiens de synthèse
+av	acuité visuelle
+avb	accouchement par voie basse
+avc	accident vasculaire cérébral
+avf, avl, avr	dérivations électrocardiographiques unipolaires
+avk	anti-vitamine k
+avp	accident sur la voie publique
+avq	activités de la vie quotidienne
+baar	bacilles acido-alcoolo-résistants
+bat	biopsie artère temporale ? maladie de horton
+bav	bloc auriculo-ventriculaire
+bav	baisse de l’acuité visuelle
+bav	bas à varice
+bb	bébé
+bbd	bloc de branche droit
+bbg	bloc de branche gauche 
+bbk	signe de babinski
+bbs	maladie de besnier-boeck-schaumann 
+bbs	sarcoïdose
+bcg	bacille de calmette et guérin
+bd	broncho-dilatateur
+bda	bouffée délirante aigu?
+bdc	bruit du cœur
+bea	bon entrée d’air 
+beax2	bon entrée air pour les deux poumons
+beg	bon état général
+bgn	bacille gram négatif
+bgp	bacille gram positif
+bha	bruits hydro-aériques
+bhd	buprénorphine haut dosage 
+bhd	subutex®
+bhe	barrière hémato-encéphalique
+bhr	bactéries hautement résistantes
+bid	deux fois par jour
+bip	diamètre bipariétal
+bk	bacille de koch
+blse	bêtalactamases à spectre élargi ou étendu
+bm	biopsie médullaire
+bm	brûlures mictionnelles
+bmi	indice de masse corporelle 
+bmr	bactérie multirésistante aux antibiotiques
+bnp	peptide cérébral natriurétique
+bom	biopsie ostéomédullaire
+bp	blood patch
+bpco	bronchopneumopathie chronique obstructive
+bpm	battement par minute
+bpm	battements par minute
+bs	bilan sanguin
+bsh	bonne santé habituelle
+bsa	bloc sino-auriculaire
+bsad	bourse sous acromio-deltoïdienne
+bu	bandelette urinaire
+bum	fiche de bon usage du médicament
+but	break up time (test de rupture lacrymale)
+bx	biopsie
+c3g	céphalosporines de troisième génération
+ca	calcium
+cai	conduit auditif interne
+cat	conduite à tenir
+camsp	centre d’action médico-social précoce
+cb	corpuscule de barr
+cbc	carcinome broncho-pulmonaire 
+cbc	carcinome baso-cellulaire
+cbp	cirrhose biliaire primitive
+cca	chef de clinique des universités-assistant des hôpitaux
+cca	chondrocalcinose articulaire
+ccam	classification commune des actes médicaux
+cch	crise convulsive hyperthermique 
+cch	convulsion hyperthermique du nourrisson
+cci	cathéter à chambre implantable
+ccmh	concentration corpusculaire moyenne en hémoglobine
+cgmh	concentration globulaire moyenne en hémoglobine
+ccu	unité de soins intensifs
+ccu	unité de soins coronariens
+ccu	unité de soins cardiaques
+ccu-ah	chef de clinique des universités-assistant des hôpitaux
+ccvg	chambre de chasse du ventricule gauche
+ccr	cancer colorectal
+cd	artère coronaire droite
+cec	circulation extra-corporelle
+cee	choc électrique externe
+cg	hormone gonadotrophine chorionique 
+cg	hormone chorionique gonadotrope
+ch	centre hospitalier
+chc	carcinome hépatocellulaire
+chd	centre hospitalier départemental
+chh	complexe hypothalamo-hypophysaire
+chu	centre hospitalier universitaire
+chr	centre hospitalier régional
+chru	centre hospitalier régional universitaire
+chs	centre hospitalier spécialisé
+chsct	comité hygiène, de sécurité et des conditions de travail
+chir.	chirurgie
+ci	cadre infirmier
+ci	contre-indication
+ci	chambre implantable
+cid	carotide interne droite
+cia	communication inter-auriculaire
+kci	chlorure de potassium
+cin	cervical intraepithelial neoplasia
+cim	classification internationale des maladies
+ciddist	centre d’information, de dépistage et de diagnostic des infections sexuellement transmissibles
+civ	communication inter-ventriculaire
+civ	chimiothérapie intraveineuse
+civd	coagulation intravasculaire disséminée
+ck	créatine kinase
+clan	comité de liaison en alimentation et nutrition
+cle	canal lombaire étroit
+clin	comité de lutte contre les infections nosocomiales
+clcc	centre de lutte contre le cancer
+clsc	centre local de services communautaires
+clud	comité de lutte contre la douleur
+cmb	concentration minimale bactéricide
+cmd	cardiomyopathie dilatée
+cmh	cardiomyopathie hypertrophique
+cmi	cardiologie médicale interventionnelle
+cmi	cardiomyopathie ischémique
+cmi	concentration minimale inhibitrice
+cme	commission médicale d’établissement
+cmu	couverture maladie universelle
+cmuc	couverture maladie universelle complémentaire
+cmt	cancer médullaire thyroïde
+cmv	cytomégalovirus
+cna	colique néphrétique aiguë
+cnom	conseil national de l’ordre des médecins
+co	contraceptifs oraux
+co	monoxyde de carbone
+co	comprimé 
+cops	commission relative à l’organisation de la permanence des soins
+cpa	concentré plaquettaire d’aphérèse
+cpbia	contre-pulsion par ballonnet intra-aortique 
+cpbia	ballon contrepulsion intra-aortique
+cpc	coeur pulmonaire chronique
+cpe	cholangio-pancréatographie endoscopique
+cpia	contre-pulsion intra-aortique
+cpk	créatine phosphokinase
+cpre	cholangio-pancréatographie rétrograde par voie endoscopique
+cps	concentré plaquettaire standard ou 
+cps	carte de professionnels de santé
+cpt	capacité pulmonaire totale
+crf	capacité résiduelle fonctionnelle
+crh	corticolibérine
+crp	protéine c réactive
+crra	centre de réception et de régulation des appels 
+crra	15 du samu
+cruq	commission des relations avec les usagers et de la qualité de la prise en charge
+csa	ciclosporine a
+cs	caractère sexuel
+csh	cellules souches hématopoïétiques
+csss	centre de santé et de services sociaux
+cu	contraction utérine
+cv	cardiovasculaire
+cv	charge virale
+cv	capacité vitale
+cv	champ visuel
+cv	corde vocale
+cvf	capacité vitale forcée
+cvl	capacité vitale lente
+cvo	crise vaso-occlusive
+cvt	capacité vitale totale
+cvf	capacité vitale forcée
+cx	artère circonflexe (coronaire)
+d+ / d+	douleur
+da	délivrance artificielle 
+da	dissection aortique
+dac	dispositif d’annonce en cancérologie
+dae	défibrillateur automatisé externe 
+dai	défibrillateur automatique implantable
+dal	dispositif d’aide à l’allaitement
+dam	dysfonction de l’appareil manducateur
+dan	diagnostic anténatal
+dat	diamètre abdominal transverse
+db1	diabète de type 1
+dbi	diabète de type 1
+db2	diabète de type 2
+dbii	diabète de type 2
+dbai	dermatose bulleuse auto-immune
+d/c	discontinué
+dc	débit cardiaque
+dci	dénomination commune internationale
+dci	aciclovir 
+dcd	décédé 
+dcd	décompensation cardiaque droit
+dicv	déficit immunitaire commun variable
+dd	diagnostic différentiel
+dd	délivrance dirigée
+ddass	direction départementale des affaires sanitaires et sociales
+ddb	bronchectasie
+ddb	dilatation des bronches 
+dr	décollement rétinien
+ddr	date des dernières règles
+dea	défibrillateurs entièrement automatiques 
+dec	déshydratation extracellulaire
+deg	asthénie
+deg	diminution de l’état général 
+dem	débit expiratoire moyen
+dep	débit expiratoire de pointe
+des	diplôme études spécialisées
+dfg	débit de filtration glomérulaire
+dft	démences fronto-temporales
+dgs	direction générale de la santé
+dh+ / dh+	diarrhée
+dhea	déhydroépiandrostérone
+did	diabète insulinodépendant
+die	quotidien
+diag	diagnostic
+dim	département information médicale
+dim	dérangement intervertébrale mineure
+diu	dispositif intra-utérin
+dlco	diffusion libre de co2
+dlp	dyslipidémie
+dlr	douleur
+dme	dose maximale efficace
+dmj	dermatomyosite juvénile
+dmla	dégénérescence maculaire liée à l’âge
+dmo	densité minérale osseuse
+dmp	dossier médical personnel
+dnid	diabète non insulinodépendant
+dnv	dystonie neuro-végétatif
+dmt	dose maximale tolérée
+doa	décompensation oedémato-ascitique
+dopa	dihydroxyphénylalanine
+dpc	duodénopancréatectomie céphalique 
+dpc	opération de whipple
+dpn	diagnostic prénatal
+dppni	décollement prématuré du placenta normalement inséré
+drr	décollement de la rétine rhegmatogène
+dr	dernières règles
+drp	drainage rhino-pharyngé
+drs	douleur rétrosternale
+ds i	diabète sucré de type 1
+ds ii	diabète sucré de type 2
+dsa	défibrillateur semi-automatique
+dsc	débit sanguin cérébral
+dsm	manuel diagnostique et statistique des troubles mentaux
+dt	delirium tremens
+dta	démence de type alzheimer
+dtc	doppler transcranien
+dts	désorientation temporo-spatiale
+dug	diaphragme uro-génital
+dvda	dysplasie ventriculaire droite arythmogène
+dvi	dispositifs veineux implantables
+dx	diagnostic
+eal	exploration d’une anomalie lipidique
+ebna	antigène nucléaire epstein-barr
+ebo	endobrachyoesophage
+ebv	virus d‘epstein-barr
+eca	état confusionnel aigu
+ecbc	examen cyto-bactériologique des crachats
+ecbu	examen cyto-bactériologique des urines
+ecg	électrocardiogramme
+echo virus	virus orphelin humain cytopathogénique entéral
+ecog	échelle de performance
+edm	épisode dépressif majeur
+edrf	facteur relaxant dérivé de l’endothélium
+eds	épisode de soins
+ee	épreuve effort
+eeg	électroencéphalogramme
+eer	épuration extra-rénale
+ees	entraînement électrosystolique
+efh	exploration fonctionnelle vasculaire
+efr	épreuve fonctionnelle respiratoire
+efs	établissement français du sang
+ehh	état hyperglycémique hyperosmolaire
+ehpad	établissement d’hébergement pour personnes âgées dépendantes
+ei	endocardite infectieuse
+ei	effets indésirables
+eig	espace intercostal gauche
+elisa	dosage d’immunoabsorption par enzyme liée
+ema	état de mal asthmatique
+eme	état de mal épileptique
+eme	état de mort encéphalique
+emg	électromyogramme
+emu	examen microscopique des urines
+eoh	équipe opérationnelle d’hygiène hospitalière
+ep	embolie pulmonaire 
+ep	échange plasmatique
+ep	épanchement pleural
+epr	dossier patient électronique
+epo	érythropoïétine
+epp	électrophorèse des protéines plasmatiques
+eps	électrophorèse des protéines sériques
+eps	examen parasitologique des selles
+epv	espace périvitellin
+erv	entérocoque résistant à la vancomycine
+esa	extrasystole auriculaire 
+essv	extrasystole supraventriculaire
+esbl	bactéries productrices de bêtalactamases à spectre élargi
+espt	état de stress post-traumatique
+esv	extrasystole ventriculaire
+essv	extrasystole supraventriculaire
+eto	échocardiographie transoesophagienne
+etp	éducation thérapeutique du patient
+ett	échocardiographie transthoracique
+eva	évaluation visuelle analogique
+eva	échelle visuelle analogique
+evc	état végétatif chronique
+evp	état végétatif persistant
+etco2	fraction expirée en co2
+end tidal co2	fraction expirée en co2
+f	femme
+fe	fraction éjection
+fa	fibrillation auriculaire
+fap	fibrillation auriculaire paroxystique
+fav	fistule artério-veineuse
+fc	fréquence cardiaque
+fcs	fausse couche spontanée
+fcu	frottis cervico-utérin
+fcv	frottis cervico-vaginal
+fdr	facteur de risque
+fdrcv	facteurs de risque cardio-vasculaires
+fevg (fevd)	fraction éjection du ventricule gauche (ou droit)
+ffi	faisant fonction interne
+fh	flèche hépatique
+fio2	fraction inspirée oxygène
+fid	fosse iliaque droite
+fig	fosse iliaque gauche
+fiv	fécondation in vitro
+fivete	fécondation in vitro et transfert d’embryon
+flu	cortisol libre urinaire
+fmc	formation médicale continue
+fml	fibre musculaire lisse
+fo	fond d’oeil
+fo	foramen ovale 
+fo	trou de botal
+fogd	fibroscopie oeso-gastro-duodénale
+fop	foramen ovale perméable
+foso	feuille d’ouverture de salle d’opération
+fr	facteur de risque
+fr	facteur rhumatoïde
+fr	fréquence respiratoire
+fsc	formule sanguine complète
+fse	feuille de soins électronique
+fsh	hormone folliculo-stimulante
+fsp	feuille de soins papier
+fsr	flux sanguin rénal
+fv	fibrillation ventriculaire
+fx	fracture
+gxpx	gravida x, para x (ou x est un chiffre correspondant après le "g" au(x) nombre(s) de grossesses, et le "p", le nombre accouchement(s) après 24 semaines. (g2p2 signifiant par exemple 2 grossesses ayant abouti à 2 accouchements)
+gaba	acide gamma-aminobutyrique
+gafa	glaucome aigu par fermeture de l’angle
+gaj	glycémie à jeun
+gb	globule blanc
+gcao	glaucome chronique à angle ouvert
+gcs	score de glasgow
+gds	gaz du sang
+gdsa	gaz du sang artériel
+gea	gastro-entérite aiguë
+gei	gastro-entérite infantile
+geu	grossesse extra-utérine
+gfa	glaucome par fermeture de l’angle
+ggt	gamma-glutamyltranspeptidase
+?gt	gamma-glutamyltranspeptidase 
+gh	hormone somatotrope
+gh-rh	hormone activatrice de l’hormone de croissance
+ghb	acide gamma-hydroxybutyrique (drogue du violeur)
+ghm	groupe homogène de malade
+ghs	groupe homogène de séjour
+gmc	gammapathie monoclonale
+gp	glycémie plasmatique
+gpe	gastrostomie percutanée endoscopique
+gr	globule rouge
+gn	glomérulonéphrite
+gnem	glomérulonéphrite extra-membraneuse
+gnmp	glomérulonéphrite membrano-proliférative
+gnrp	glomérulonéphrite rapidement progressive
+gvh	réaction du greffon contre l’hôte
+h	homme
+haa	hémoculture aéro-anaérobie
+haa	hépatite alcoolique aiguë
+had	hospitalisation à domicile
+has	haute autorité de santé
+hb	hémoglobine
+hba1c	hémoglobine glyquée
+hbag	hémi-bloc antérieur gauche
+hbo2	oxyhémoglobine
+hbp	hypertrophie bénigne prostate
+hbpm	héparine de bas poids moléculaire
+hbpg	hémi-bloc postérieur gauche
+hc	hypochondre
+hc	hémoculture
+hc	hospitalisation complète
+hcg	hormone chorionique gonadotrope
+hcg	hormone gonadotrophine chorionique
+hcs	hyperplasie congénitale des surrénales
+hd	hernie discale 
+hd	hémorragie digestive 
+hd	hippocratisme digital
+hdj	hôpital de jour
+hdh	histoire de l’hospitalisation
+hdh	hémorragie digestive haute
+hdl	lipoprotéine de haute densité
+hdt	hospitalisation à la demande d’un tiers
+hed	hématome extra-dural 
+hed	hématome épidural
+hellp	syndrome hémolyse-hépatocytolyse-thrombopénie
+hdm ou hdlm	histoire de la maladie
+hgpo	hyperglycémie provoquée par voie orale
+hge	hépato-gastro-enterologie
+hgt	hémoglucotest
+hh	histoire de hospitalisation 
+hh	hémorragie
+hhv	herpèsvirus
+hib	hernie inguinale bilatérale
+hic	hypertension intra-crânienne
+his	hybridation in situ
+hiv	virus de immunodéficience humaine 
+hiv	hémorragie intravitréenne
+hj	hôpital de jour
+hk	hypokinésie (maladie cardiaque)
+hla	antigène de leucocyte humain
+hlh	hémianopsie latérale homonyme
+hlm	hématies et leucocytes par minute
+hlpnn	hyperleucocytose à polynucléaires neutrophiles
+hmg	hépatomégalie
+hma	histoire de la maladie actuelle
+hnf	héparine non fractionnée
+hnpcc	cancer colorectal héréditaire sans polypose
+ho	hospitalisation d’office 
+ho	hospitalisé
+hpm	hépatomégalie
+hpn	hydrocéphalie à pression normale 
+hpn	hémoglobinurie paroxystique nocturne
+hprim	harmonie et promotion de l’informatique médicale
+hpp	hypertension pulmonaire primitive
+hpp	hémorragie du post-partum
+hpv	papillomavirus humain
+hrb	hyperréactivité bronchique
+hrp	hématome rétro-placentaire
+hrt	hystérectomie radicale totale
+hsa	hémorragie sous-arachnoïdienne
+hsd	hématome sous-dural
+hsf	hyalinose segmentaire et focale
+hsm	hépatosplénomégalie
+htc	hématocrite
+hta	hypertension artérielle
+htap	hypertension artérielle pulmonaire 
+htic	hypertension intra-crânienne
+htlv	virus t-lymphotropique humain
+hto	hypertension oculaire
+htp	hypertension portale
+hu	hématurie 
+hu	hauteur utérine
+hvg	hypertrophie ventriculaire gauche
+ia	insuffisance aortique
+ia	intra-artérielle 
+iaa	intoxication alcoolique aiguë
+iad	insémination artificielle par donneur
+iade	infirmier anesthésiste diplômé d’état
+iami	insuffisance artérielle du membre inférieur
+iao	infirmier accueil et d’orientation
+iao	insuffisance aortique
+iat	ischémie aigue transitoire
+ibi	infection bactérienne invasive
+ibs	infection bactérienne septicémique
+ibode	infirmier de bloc opératoire diplômé d’état
+ic	insuffisance cardiaque 
+ic	insuffisance coronaire
+ic	index cardiaque
+icd	insensibilité congénitale à la douleur 
+icd	insuffisance cardiaque droite
+icg	insuffisance cardiaque gauche
+icp	intervention coronarienne percutanée
+icalin	indicateur composite des activités de lutte contre les infections nosocomiales
+ict	ischémie cérébrale transitoire
+icu	unité de soins intensifs
+id	pendant la journée
+id	injection intradermique
+ide	infirmier diplômé d’état
+idm	infarctus du myocarde
+idr	intradermoréaction
+iec	inhibiteur de l’enzyme de conversion
+ieps	immuno-électrophorèse des protides sanguins
+ieps	immuno-électrophorèse des protéines sanguines
+iepu	immuno-électrophorèse des protéines urinaires
+iet	intubation endo-trachéale
+ifi	immunofluorescence indirecte
+ifas	institut de formation aide-soignant
+ifmk	institut de formation en masso-kinésithérapie
+ifsi	institut de formation en soins infirmiers
+ig	immunoglobuline
+igf	somatomédine
+ihp	interne des hôpitaux de paris
+il	interleukine
+im	insuffisance mitrale 
+im	injection intra-musculaire
+im	infarctus du myocarde
+imao	inhibiteur de la monoamine oxydase
+imc	infirmité motrice cérébrale
+imc	indice de masse corporelle
+img	interruption médicale de grossesse
+imnq	infarctus du myocarde sans onde q
+imq	infarctus du myocarde avec onde q
+ims	ischémie myocardique silencieuse
+imv	intoxication médicamenteuse volontaire
+in	infection nosocomiale
+inh	isoniazide
+inr	rapport normalisé international
+invs	institut de veille sanitaire
+iot	intubation oro-trachéale
+ip	injection intrapéritonéale
+ipd	(articulation) interphalangienne distale
+ipe	insuffisance pancréatique exocrine
+ipp	inhibiteur de la pompe à protons 
+ips	indice de pression systolique
+ir	injection intrarachidienne
+ira	insuffisance rénale aiguë
+iraf	insuffisance rénale aiguë fonctionnelle
+irc	insuffisance rénale chronique 
+irc	insuffisance respiratoire chronique
+irct	insuffisance rénale chronique terminale
+irfss	institut régional de formation sanitaire et social 
+irm	imagerie par résonance magnétique
+isa	insuffisance surrénalienne aiguë
+isl	insuffisance surrénalienne lente
+isla	infection spontanée du liquide ascite
+iso	infection du site opératoire
+ist	infection sexuellement transmissible
+it	insuffisance tricuspide
+itt	incapacité temporaire totale
+iu	infection urinaire
+iv	intraveineuse
+iva	artère interventriculaire antérieure
+ivd	insuffisance ventriculaire droite 
+ivg	insuffisance ventriculaire gauche 
+ivg	interruption volontaire de grossesse
+ivm	intubation-ventilation mécanique
+ivmi	insuffisance veineuse des membres inférieurs
+ivp	artère interventriculaire postérieure 
+ivt	injection intra vitréenne 
+ivc	insuffisance veineuse chronique
+ivs	insuffisance veineuse superficielle
+ivp	insuffisance veineuse profonde
+ivrs	infection des voies respiratoires supérieures
+k	cancer
+kbp	cancer bronchopulmonaire
+kod	kyste de l’ovaire droit 
+kt	cathéter
+ktc	cathéter central
+laf	lampe à fente
+lal	leucémie aiguë lymphoblastique
+lam	leucémie aiguë myéloblastique
+lat	limitation ou arrêt des thérapeutiques
+lap	lésions ano-périnéales 
+mici	maladie inflammatoire chronique de l’intestin 
+lba	liquide broncho-alvéolaire
+lbnp	pression négative des membres inférieurs
+lcr	liquide céphalo-rachidien
+lcs	liquide cérébro-spinal
+ldh	lactate déshydrogénase
+ldl	lipoprotéine de basse densité
+led	lupus érythémateux disséminé 
+lead	lupus érythémateux aigu disséminé
+lgm	lésions glomérulaires minimes
+lgc	logiciel de gestion de cabinet
+lh	hormone lutéinisante 
+lh-rh	hormone libérant l’hormone lutéinisante 
+lid	lobe inférieur droit
+lig	lobe inférieur gauche
+lin	lutte contre les infections nosocomiales
+llc	leucémie lymphoïde chronique
+lmc	leucémie myéloïde chronique
+lmnh	lymphome malin non hodgkinien
+lmd	lobe moyen droit
+lmg	lobe moyen gauche 
+lp	libération prolongée
+ls	(repos ou maintien au) lit strict
+lsd	lobe supérieur droit 
+lsg	lobe supérieur gauche
+lse	(repos ou maintien au) lit strict élargi
+lva	libération des voies aériennes
+ma	maladie d’alzheimer
+mab	maladie affective bipolaire
+madd	depression anxieuse
+mai	maladie auto-immune
+malt	tissu lymphoïde associé aux muqueuses
+map	menace d’accouchement prématuré
+mapa	monitorage ambulatoire de la pression artérielle
+mar	médecin anesthésiste-réanimateur
+mat	micro-angiopathie thrombotique
+mav	malformation artério-veineuse; 
+mav	mesure de acuité visuelle
+mb	métabolisme basal
+mbb	membrane basale
+mc	maladie coronarienne
+mcas	maladie cardiaque athérosclérotique
+mce	massage cardiaque externe
+mcj	maladie de creutzfeldt-jakob
+mco	médecine, chirurgie, gynécologie-obstétrique
+mctm	maladie des calcifications tendineuses multiples
+mcv	maladie cardio-vasculaire
+mdh	maladie de hodgkin
+me	microscope électronique
+mec	mise en charge
+mfe	monitorage fœtal électronique
+mfiu	mort fœtale in utero
+mgus	gammapathie monoclonale de signification indéterminée
+mi	infarctus du myocarde
+mici	maladies inflammatoires chroniques de l’intestin
+mid	membre inférieur droit
+mig	membre inférieur gauche
+mibg	méta-iodobenzyl guanidine 
+mm	mélanome malin
+mmh	maladie des membranes hyalines
+mms	test de dépistage des démences
+mni	mononucléose infectieuse
+mp	maladie professionnelle
+mpoc	maladie pulmonaire obstructive chronique
+mrop	maladie reconnue origine professionnelle
+ms	membre supérieur
+msd	membre supérieur droite
+msg	membre supérieur gauche
+mo	morphine
+msn	mort subite du nourrisson
+msp	mise en situation professionnelle 
+mst	maladie sexuellement transmissible
+mt	médecin traitant
+mte	maladie thromboembolique
+mvas	maladie vasculaire athérosclérotique
+mv	murmure vésiculaire
+mrv	murmure respiratoire vésiculaire
+mvc	maladie veineuse chronique
+mvo	maladie veino-occlusive
+mw	maladie de willebrand
+n+ / n+	nausée
+na	natrémie
+nas	néphro-angiosclérose
+nem	néoplasie endocrinienne multiple
+nf	neurofibromatose
+nfs	numération de formule sanguine
+nha	niveau hydro-aérique
+nia	néphrite interstitielle aiguë 
+ntia	néphrite tubulo-interstitielle aiguë
+nic	néphropathie interstitielle chronique
+nk	(lymphocyte) tueur naturel
+nlp	neuroleptiques
+nmda	acide n-méthyl-d-aspartique
+noia	neuropathie optique ischémique antérieure
+noiaa	neuropathie optique ischémique antérieure aiguë
+norb	névrite optique rétrobulbaire
+nps	ne pas substituer
+nrs	nourrisson
+nsu	négligence spatiale unilatérale
+nta	nécrose tubulaire aiguë
+nyha	critères new york heart association
+o2t	oxygénothérapie
+oad	une fois par jour
+oad	oblique antérieur droite 
+oap	œdème aigu du poumon
+oacr	occlusion de l’artère centrale de la rétine
+oct	tomographie optique cohérente
+od	œil droit 
+odf	orthopédie dento-faciale
+odm	ostéodensitométrie
+og	œil gauche 
+ogd	œsogastroduodénoscopie
+oge	organes génitaux externes
+old	oxygénation de longue durée
+oma	otite moyenne aiguë
+omi	œdème des membres inférieurs
+oms	organisation mondiale de la santé
+oph	œdème pulmonaire hémodynamique 
+opt	orthopantomogramme
+orl	oto-rhino-laryngologie
+os	œil gauche
+ou.	les deux yeux
+ovcr	occlusion de la veine centrale de la rétine
+p	bras court du chromosome 
+pa	pression artérielle
+pa	personne âgée
+pa	pancréatite aiguë 
+pa	prostatite aiguë
+pa	principe actif
+paap	polyneuropathie axonale ascendante progressive
+pab	préposé aux bénéficiaires
+pac	pontage aorto-coronarien; 
+pac	port-a-cath 
+pac	pneumopathie aiguë communautaire
+paco2	pression artérielle partielle en dioxyde de carbone
+pad	pression artérielle diastolique
+pal	phosphatase alcaline
+pam	pression artérielle moyenne
+pam	polyangéite microscopique
+pan	périartérite noueuse
+pao2	pression artérielle partielle en oxygène
+papo	pression artérielle pulmonaire occlusion
+par	polyarthrite rhumatoïde 
+pas	pression artérielle systolique
+pbh	ponction biopsie hépatique
+pbr	ponction biopsie rénale
+pbs	péritonite bactérienne spontanée
+pc	périmètre crânien
+pc	après les repas 
+pc	perte de connaissance
+pci	prévention contre les infections 
+pci	perte de conscience initiale 
+pcc	pancréatite chronique calcifiante
+pce	polyarthrite chronique évolutive
+pr	polyarthrite rhumatoïde
+pcp	pression capillaire pulmonaire
+pcr	réaction en chaîne par polymérase
+pct	procalcitonine
+pd	péridurale
+pda	préparation des doses à administrer
+pdc	perte de connaissance
+pdf	produit de dégradation de la fibrine
+pdgf	facteur de croissance des plaquettes
+pdl	exposure radiologique 
+pea	potentiel évoqué auditif
+peag	pustulose exanthématique aiguë généralisée
+peai	polyendocrinopathie auto-immune
+pec	prise en charge
+pep	pression expiratoire positive 
+pev	pyélographie endoveineuse
+pf	paralysie faciale
+pfc	plasma frais congelé
+pfla	pneumonie franche lobaire aiguë
+ph	pheochromocytome
+phc	psychose hallucinatoire chronique
+pht	temps de demi-croissance de l’onde 
+pic	pression intracrânienne
+pid	pneumopathies interstitielles diffuses
+pio	pression intra-oculaire
+pkad	polykystose rénale autosomique dominante 
+pkd	polykystose rénale autosomique dominante
+pl	ponction lombaire
+pls	position latérale de sécurité
+pm	(pacemaker) stimulateur cardiaque 
+pmi	protection maternelle et infantile
+pma	procréation médicalement assistée
+pmad	programme de maintien à domicile
+pmd	psychose maniaco-dépressive 
+pmo	prélèvements multi-organes
+pmp	pacemaker permanant
+pmr	polymyalgie rhumatoïde
+pmsi	programme de médicalisation des systèmes information
+pn	polynucléaire
+pna	pyélonéphrite aiguë
+pnb	polynucléaire basophile
+pne	polynucléaire éosinophile
+pni	pression artérielle non invasive
+pnn	polynucléaire neutrophile
+pnp	pneumopathie
+pnp	polyneuropathie
+po	administration orale de médicaments ou de nourriture; 
+npo	aucune administration de nourriture ou de médicament par voie orale
+poic	pseudo-obstruction intestinale chronique
+pom	paralysie du nerf oculomoteur
+pomc	pro-opiomélanocortine
+pp	placenta praevia; 
+pp	pression de perfusion
+ppc	pression de perfusion cérébrale
+ppr	pseudo-polyarthrite rhizomélique
+pprst	poumon, prostate, rein, sein, thyroïde
+pps	programme personnalisé de soins
+ptt	purpura thrombotique thrombocytopénique
+ppvg	paroi postérieure du ventricule gauche
+pr	prélèvement rectal
+psa	plaque simple de abdomen 
+psdp	pneumocoque de sensibilité diminuée à la pénicilline
+pse	pousse-seringue électrique
+pr	polyarthrite rhumatoïde 
+prl	prolactine
+prn	polyradiculonévrite
+psa	antigène spécifique de prostate
+psl	produit sanguin labile
+ptg	prothèse totale de genou
+pth	hormone parathyroïdienne
+pth	prothèse totale  hanche 
+ptv	potentiels tardifs ventriculaires
+pu	protéinurie
+pv	prélèvement vaginal
+pvc	pression veineuse centrale
+pvm	petite valve mitrale
+q	bras long un chromosome
+qd	chaque jour
+qi	quotient intellectuel
+qid	quatre fois par jour
+qrs	complexe qrs
+qs	question spécifique
+qsp	quantité suffisante pour
+qt	segment qt
+ra	rétrécissement aortique
+ra	rachianesthésie
+raa	rhumatisme articulaire aigu
+rac	rétrécissement aortique calcifié
+rad	retour à domicile
+rai	recherche anticorps irréguliers
+raisin	réseau d’alerte, d’investigation et de surveillance des infections nosocomiales
+ram	rupture artificielle des membranes 
+rap	résistance artérielle pulmonaire
+rast	dosage radio immunologique des ige spécifiques d’un allergène
+rau	rétention aiguë urine
+rb	rétinopathie diabétique 
+rbp	rétinopathie diabétique proliférante
+rbpp	rétinopathie diabétique pré-proliférante 
+rbnp	rétinopathie diabétique non proliférante
+rca	réflexe cutané abdominal
+rcf	rythme cardiaque fœtal
+rch	recto-colite hémorragique
+rciu	retard de croissance intra-utérin
+rcp	réanimation cardio-pulmonaire
+rcr	réanimation cardio-respiratoire
+rcr	rythme cardiaque régulier
+rcuh	recto-colique ulcéro-hémorragique
+rds	revue des systèmes
+rev	résection endoscopique de vessie
+rgo	reflux gastro-œsophagien
+rh	rhésus
+rhd	règles hygiéno-diététiques
+rhj	reflux hépato-jugulaire
+ric	rhumatismes chroniques inflammatoires
+riva	rythme idioventriculaire accéléré
+rm	rétrécissement mitral
+rmn	résonance magnétique nucléaire
+rmo	référence médicale opposable
+r/o	rollout 
+rofi	réduction ouverte avec fixation interne
+roh	alcool
+ror	rougeole-oreillons-rubéole
+rot	réflexe ostéo-tendineux
+rp	radiographie pulmonaire
+rpm	rupture prématurée des membranes
+rrs	rythme régulier sinusal
+rpt	résistance pulmonaire totale
+rptg	reprise de prothèse totale du genou
+rpth	reprise de prothèse totale de hanche
+rr	risque relatif
+rtpa	activateur tissulaire du plasminogène 
+rtup	résection trans-urétrale de la prostate
+rtuv	résection trans-urétrale des tumeurs de vessie
+ru	révision utérine
+rva	remplacement de la valve aortique
+rvg	artère retro-ventriculaire gauche
+rvpa	retour veineux pulmonaire anormal
+rvs	résistance vasculaire systémique
+rvu	reflux vésico-urétéral
+rx ou ?	prescription
+rx	radiographie
+rxt	radiographie de thorax
+rt	transcription inverse
+sa	semaines aménorrhée
+sad	sonde à demeure
+saf	syndrome de l’alcoolisation fœtale
+sahs	syndrome d’apnées/hypopnée du sommeil
+sam	syndrome d’activation macrophagique
+samu	service d’aide médicale urgente
+sao2	saturation artérielle en oxygène
+saos	syndrome des apnées obstructives du sommeil
+sapl	syndrome des anti phospholipides
+sar	sténose de l’artère rénale
+sarm	staphylococcus aureus résistant à la méticilline
+sasm	staphylococcus aureus sensible à la méticilline
+sas	syndrome d’apnées du sommeil
+sas	sténose aortique serré
+sat	sérologie antitétanique
+sau	service d’accueil des urgences
+sbi	syndrome biologique inflammatoire
+sc	sous-cutanée
+sca	syndrome coronarien aigu 
+scb	surface corporelle brûlée
+sci	syndrome du côlon irritable
+scid	déficit immunitaire combiné sévère
+scm	sterno-cléido-mastoïdien
+scn	staphylocoque à coagulase négative
+scs	syndrome de churg-strauss
+sdhea	sulfate de déhydroépiandrostérone 
+sdl	signe de lutte
+sdmv	syndrome de défaillance multiviscérale
+sdn	salle de naissance
+sdra	syndrome de détresse respiratoire aiguë 
+sees	sonde entraînement électro-systolique
+sep	sclérose en plaques
+serm	modulateurs sélectifs des récepteurs aux œstrogènes
+sf	sage-femme
+sfa	souffrance fœtale aiguë
+sfu	signes fonctionnels urinaires
+sgb	syndrome de guillain-barré
+sgb	streptocoque du groupe b
+sha	solution hydro-alcoolique
+shu	syndrome hémolytique et urémique
+siadh	syndrome de sécrétion inappropriée hormone antidiurétique
+sid	une fois par jour
+sida	syndrome d’immunodéficience acquise
+sih	système d’information hospitalier
+sir	système d’information de radiologie
+siv	septum interventriculaire
+sla	sclérose latérale amyotrophique
+sld	soins de longue durée
+slg	syndrome de lennox-gastaut
+sma	service médical d’accueil
+smd	syndrome myélodysplasique
+smg	splénomégalie
+stat	immédiatement
+smr	service médical rendu
+smur	service médical urgence et de réanimation
+smr	service médical rendu
+sna	système nerveux autonome
+snc	système nerveux central
+sng	sonde nasogastrique
+snp	système nerveux périphérique
+sopk	syndrome des ovaires polykystiques
+saos	syndrome d’apnées obstructives du sommeil
+sor	surface de l’orifice régurgitant
+spa	spondylarthrite ankylosante
+spe	sciatique poplité externe
+spi	sciatique poplité interne
+spupd	syndrome polyuropolydipsique
+sraa	système rénine-angiotensine-aldostérone
+sras	syndrome respiratoire aigu sévère
+sris	syndrome de réponse inflammatoire systémique
+ssi	sérum salé isotonique
+sspi	salle de surveillance post-interventionnelle
+sspo	salle de surveillance post-opératoire
+ssr	soins de suite et de réadaptation
+sti vd	stimulation ventriculaire droite programmée
+sv	sonde vésicale
+svcr	syndrome de vasoconstriction cérébrale réversible
+t3	triiodothyronine
+t4	thyroxine
+ta	tension artérielle
+ta	tentative autolyse 
+ta	trou anionique 
+tabc	tronc artériel brachio-céphalique
+tap	thoraco-abdomino-pelvien
+tas	tension artérielle systolique
+tac/fa	tachyarythmie complète par fibrillation auriculaire
+tb	tuberculose
+tc	traumatisme crânien
+tca	trouble du comportement alimentaire 
+tca	temps de céphaline activée
+tcc	traumatisme cranio-cérébral 
+tcg	troubles crâniens graves
+tck	temps de céphaline kaolin
+tcmh	teneur corpusculaire moyenne en hémoglobine
+tda	trouble du déficit attention
+tdd	tableau de description
+tdm	tomodensitométrie
+tdr	troubles du rythme cardiaque
+tec	transfert embryon congelé
+ted	trouble envahissant du développement
+teg	trouble état général
+temp	tomographie par émission monophotonique
+tep	tomographie par émission de positons
+tfi	troubles  fonction intestinale
+tg	triglycérides
+tgmh	teneur globulaire moyenne en hémoglobine
+tgo	transaminase glutamo-oxaloacétique
+tgp	transaminase glutamo-pyruvique
+tgv	transposition des gros vaisseaux
+ths	traitement hormono-substitutif
+tid	trois fois par jour
+tih	thrombopénie induite par l’héparine
+tipmp	tumeur intracanalaire papillaire et mucineuse du pancréas
+tj	turgescence jugulaire
+tm	trou maculaire
+tme	test de maintien de l’éveil 
+tms	test de migration survie (des spermatozoïdes)
+tnf	facteur de nécrose tumorale
+tnm	classification tumeur-nœuds-métastases
+to	tension oculaire
+toc	trouble obsessionnel compulsif
+togd	transit œsogastroduodénal
+tp	taux de prothrombine
+tpha	dosage par hémagglutination de treponema pallidum
+tpp	thrombophlébite profonde
+tr	toucher rectal
+trh	hormone thyréotrope
+ts	tentative de suicide 
+ts	temps de saignement
+ts	transfusion sanguine
+ta	tentative autolyse
+tsh	thyréostimuline
+tsa	troncs supra-aortiques
+tsv	tachycardie supraventriculaire
+tt / ttt	traitement
+tv	tachycardie ventriculaire
+tvbc	tronc veineux brachiocéphalique
+tvc	tension veineuse centrale
+tvm	thrombose veineuse musculaire
+tvo	trouble ventilatoire obstructif
+tvp	thrombose veineuse profonde
+tvpd	thrombose veineuse profonde distale
+tvpp	thrombose veineuse profonde proximale
+tvr	trouble ventilatoire restrictif
+tvs	thrombose veineuse superficielle
+uaeo	unité accueil, évaluation et orientation
+ucr	urétrocystographie rétrograde
+ucsa	unité de consultation et de soins ambulatoires
+udi	utilisateur de drogue injectable
+udiv	utilisateur de drogue intraveineuse
+uf	ultrafiltration
+ufc	unité faisant colonie
+ugd	ulcère gastroduodénal
+uhcd	unité d’hospitalisation de courte durée
+ui	unité internationale
+uiv	urographie intraveineuse
+umasp	unité mobile d’accompagnement et de soins palliatifs
+unva	unité neurologique vasculaire aigu
+upa	unité paquets-années
+upatou	unité de proximité accueil de traitement et orientation des urgences
+upr	urétéro-pyélographie rétrograde
+urfi	unité de réadaptation fonctionnelle intensive
+usi	unité de soins intensifs
+usc	unité de surveillance continue
+uspa	unité de soins post-anesthésie
+utrf	unité transitoire de réadaptation fonctionnelle
+v+ / v+	vomissement
+vac	vacuum-assisted closure
+vac	ventilation assistée contrôlée
+vas	voies aériennes supérieures
+vaes	voies aériennes supérieures
+vads	voies aérodigestives supérieures
+vat	vaccination antitétanique
+vbp	voie biliaire principale
+vc	volume courant
+vcs	veine cave supérieure
+vd	ventricule droit
+vd	vélocité diastolique
+vdrl	laboratoire de recherche sur la maladie vénérienne
+vems	volume maximal expiré pendant la première seconde
+ves	volume éjection systolique
+vg	ventricule gauche
+vgtd	ventricule gauche télé diastolique
+vgm	volume globulaire moyen
+vh	vessie hyperactive
+vha	virus de l’hépatite a
+vhb	virus de l’hépatite b
+vhc	virus de l’hépatite c
+vhd	virus de l’hépatite d
+vhe	virus de l’hépatite e
+vi	ventilation invasive 
+vih	virus de immunodéficience humaine
+vip	peptide vasoactif intestinal
+vldl	lipoprotéine de très basse densité
+vm	valve mitrale 
+vm	ventilation mécanique
+vms	vitesse maximale systolique
+vng	vidéo nystagmographie
+vni	ventilation non invasive
+vo	varices œsophagiennes 
+vo2 max	consommation maximale oxygène
+vph	virus du papillome humain
+vpn	valeur prédictive négative
+vpp	valeur prédictive positive
+vr	volume résiduel
+vre	volume de réserve expiratoire
+vri	volume de réserve inspiratoire
+vrs	virus respiratoire syncytial
+vs	vitesse de sédimentation
+vs-pap	ventilation spontanée en pression aspiration positive 
+vsai	ventilation spontanée avec aide inspiratoire
+vtd	volume télé-diastolique
+vti	intégrale temps-vitesse du flux aortique
+vts	volume télé-systolique
+vvc	voie veineuse centrale
+vvp	voie veineuse périphérique
+vsh	veines sus-hépatiques 
+vsl	véhicule sanitaire léger
+vv	vibrations vocales
+wpw	syndrome de wolff-parkinson-white
