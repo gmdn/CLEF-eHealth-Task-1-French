@@ -1,0 +1,8 @@
+---
+title: "Runs folder"
+author: "Giorgio Maria Di Nunzio"
+date: "2017/07/28"
+output: github_document
+---
+
+After you run the **run_build_test.R** and then **run_classify_test.R** script (point 4. and 5. of the instructions), you will have in this folder two new files: a working file **run_binary_translit.csv**, and the actual run **run_binary_translit.csv_unofficial.csv**.

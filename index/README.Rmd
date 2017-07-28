@@ -1,0 +1,8 @@
+---
+title: "Index folder"
+author: "Giorgio Maria Di Nunzio"
+date: "2017/07/28"
+output: github_document
+---
+
+After you run the **index_dictionary.R** script (point 2. of the instructions), you will have in this folder a new file named **index_FR_binary_translit.RData**.
